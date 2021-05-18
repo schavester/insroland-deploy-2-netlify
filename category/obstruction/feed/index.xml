@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>obstruction &#8211; InSROland</title>
+	<atom:link href="https://www.insroland.org/category/obstruction/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.insroland.org/</link>
+	<description>lost lore of the historic core</description>
+	<lastBuildDate>Tue, 08 Mar 2016 01:02:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<title>obstruction &#8211; InSROland</title>
+	<link>https://www.insroland.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A Peddler Plundered</title>
+		<link>https://www.insroland.org/2009/11/16/candypeddler/</link>
+					<comments>https://www.insroland.org/2009/11/16/candypeddler/#respond</comments>
+		
+		<dc:creator><![CDATA[Diarmid Mogg]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2009 22:34:56 +0000</pubDate>
+				<category><![CDATA[candy]]></category>
+		<category><![CDATA[court]]></category>
+		<category><![CDATA[Diarmid]]></category>
+		<category><![CDATA[location tag]]></category>
+		<category><![CDATA[obstruction]]></category>
+		<category><![CDATA[peddler]]></category>
+		<category><![CDATA[police]]></category>
+		<category><![CDATA[theft]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Street peddler Tony Adams patrolled the corner of Fifth and South Main streets, selling candy from a tray that he secured to his body with a broad leather strap across his back, which freed his hands and made it easier for him to wrap purchases and make change, thus ensuring that he could see to &#8230; <a href="https://www.insroland.org/2009/11/16/candypeddler/" class="more-link">Continue reading <span class="screen-reader-text">A Peddler Plundered</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>Street peddler Tony Adams patrolled the corner of Fifth and South Main streets, selling candy from a tray that he secured to his body with a broad leather strap across his back, which freed his hands and made it easier for him to wrap purchases and make change, thus ensuring that he could see to the needs of the candy-hungry downtown crowds as speedily and efficiently as possible.</p>
+<p>At least, that&#8217;s how Tony saw it. Patrolman Grant McCart took a different view, and arrested Tony on a charge of obstructing the sidewalk.</p>
+<p>In court, McCart testified that Tony &#8220;blockades the sidewalks as he darts here and there, swinging his big tray in front of him.&#8221; The city prosecutor asked McCart to illustrate how Tony moved through the streets, so the tray was brought into the court and fastened across McCart&#8217;s bulky shoulders. McCart then barged recklessly about the room, butting into the bailiff with the sharp edge of the tray and nearly knocking Tony over as he turned around.</p>
+<p>&#8220;I think that will show the objectionable manner in which the defendant uses that big wooden box,&#8221; said the prosecuting attorney.</p>
+<p>The court was impressed by the demonstration, but Tony had a more important matter on his mind. &#8220;Oh, judge!&#8221; he exclaimed as he looked into his tray, &#8220;Somebody has stolen my goods!&#8221; Of the several pounds of sweets that had been piled in Tony&#8217;s tray, only a few pieces of chewing candy remained, nestled in one corner. &#8220;When I was taken to the police station, I had a nice lot of candy! Where has it gone?&#8221;</p>
+<p>The judge informed Tony that that was no concern of the court&#8217;s and wished him luck in his pursuit of his complaint with the chief of police.</p>
+<p>Tony was fined $5 for obstructing the streets and advised in future to cry his wares from the curb.</p>
+<p><em>Sources: Los Angeles Herald, August 26 and 29, 1906.</em></p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.insroland.org/2009/11/16/candypeddler/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

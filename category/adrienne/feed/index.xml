@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>adrienne &#8211; InSROland</title>
+	<atom:link href="https://www.insroland.org/category/adrienne/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.insroland.org/</link>
+	<description>lost lore of the historic core</description>
+	<lastBuildDate>Tue, 08 Mar 2016 01:53:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<title>adrienne &#8211; InSROland</title>
+	<link>https://www.insroland.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Drug Ring Agent Caught with the Goods on Main Street</title>
+		<link>https://www.insroland.org/2009/07/05/morphineonmain/</link>
+					<comments>https://www.insroland.org/2009/07/05/morphineonmain/#respond</comments>
+		
+		<dc:creator><![CDATA[Adrienne Crew]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2009 21:58:43 +0000</pubDate>
+				<category><![CDATA[adrienne]]></category>
+		<category><![CDATA[drug crime]]></category>
+		<category><![CDATA[location tag]]></category>
+		<category><![CDATA[morphine]]></category>
+		<category><![CDATA[narcotics]]></category>
+		<category><![CDATA[trafficking]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Smuggling drugs into Los Angeles, then and now, is a risky profession. Ask Main street resident, Charles Whittaker, whom police busted for dealing morphine and other narcotics in April 1919. Police Detectives Canto, Vernand, Winn and Oâ€™Brien caught Whittaker with a small box, containing 1000 morphine tablets valued at $1000, in his possession. According to &#8230; <a href="https://www.insroland.org/2009/07/05/morphineonmain/" class="more-link">Continue reading <span class="screen-reader-text">Drug Ring Agent Caught with the Goods on Main Street</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p><a title="410 S. Main Street, site of drug bust in 1919 by ecru64, on Flickr" href="http://www.flickr.com/photos/ecru64/3691307707/"><img loading="lazy" src="http://farm3.static.flickr.com/2555/3691307707_d64c1a3544.jpg" alt="410 S. Main Street, site of drug bust in 1919" width="500" height="205" /></a> Smuggling drugs into Los Angeles, then and now, is a risky profession. Ask Main street resident, Charles Whittaker, whom police busted for dealing morphine and other narcotics in April 1919.  Police Detectives Canto, Vernand, Winn and Oâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />Brien caught Whittaker with a small box, containing 1000 morphine tablets valued at $1000, in his possession. According to police, a drug ring in San Francisco had been mailing packages of narcotics to Whittaker at his 410 South Main Street residence. Investigators told the <em>Los Angeles Times </em> that four packages of 1000 tablets each had been delivered to Whittaker a month for the past year.    Whittaker, a grocery salesman, claimed he had no knowledge of what was in the package in his possession and did not know the senders. Perhaps he was just holding it for a friend who had ducked into Marks-Fram Co. next door at 412 S. Main Street (pictured above) to pick up a few postcards.   Illustration credit: Brent C. Dickerson&#8217;s <a href="http://www.csulb.edu/~odinthor/socal2a.html">A Visit to Old Los Angeles site</a></p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.insroland.org/2009/07/05/morphineonmain/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

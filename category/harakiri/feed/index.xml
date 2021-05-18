@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>harakiri &#8211; InSROland</title>
+	<atom:link href="https://www.insroland.org/category/harakiri/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.insroland.org/</link>
+	<description>lost lore of the historic core</description>
+	<lastBuildDate>Tue, 08 Mar 2016 01:03:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<title>harakiri &#8211; InSROland</title>
+	<link>https://www.insroland.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Death before dishonor</title>
+		<link>https://www.insroland.org/2009/10/20/harakiri/</link>
+					<comments>https://www.insroland.org/2009/10/20/harakiri/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2009 18:28:31 +0000</pubDate>
+				<category><![CDATA[harakiri]]></category>
+		<category><![CDATA[japanese]]></category>
+		<category><![CDATA[kim]]></category>
+		<category><![CDATA[location tag]]></category>
+		<category><![CDATA[ramona]]></category>
+		<category><![CDATA[saloon]]></category>
+		<category><![CDATA[seppuku]]></category>
+		<category><![CDATA[suicide]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Although Japanese, and as such always an outsider to the Anglo culture of SRO land, G. Kurokaua was a respected longtime employee of the Ramona Saloon at 307 South Spring Street. But for all his years in the bar, he failed to tune his ear to the friendly jibes and japes that were the habit &#8230; <a href="https://www.insroland.org/2009/10/20/harakiri/" class="more-link">Continue reading <span class="screen-reader-text">Death before dishonor</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>Although Japanese, and as such always an outsider to the Anglo culture of SRO land, G. Kurokaua was a respected longtime employee of the Ramona Saloon at 307 South Spring Street. But for all his years in the bar, he failed to tune his ear to the friendly jibes and japes that were the habit of the place. Already crabby with an undiagnosed stomach ailment that pained him, the gentleman took grave offense when a patron, perhaps aware of Kurokaua&#8217;s remarkable thrift, joked that he had doubled his salary by raiding the till. Mortified, Kurokaua went to his employer, who laughed the remark off as the joke it was. But Kurokaua brooded. If his customers believed he was dishonorable, what was the point in living? His Japanese friends tried to appease him, it was just a case of an American being American, nothing worth taking to heart. It was no use. Several days after the slight, Kurokaua went to his rooms at 215 Boyd Street, readied his tanto knife with cloth around the outer side, plunged the blade into his belly and managed a cut of nearly a foot in length before losing consciousness. He then fell back upon his bed to die, a traditional Samurai honor suicide, <em>harakiri</em>, in downtown Los Angeles.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.insroland.org/2009/10/20/harakiri/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

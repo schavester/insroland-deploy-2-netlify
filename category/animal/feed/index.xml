@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>animal &#8211; InSROland</title>
+	<atom:link href="https://www.insroland.org/category/animal/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.insroland.org/</link>
+	<description>lost lore of the historic core</description>
+	<lastBuildDate>Tue, 08 Mar 2016 01:03:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<title>animal &#8211; InSROland</title>
+	<link>https://www.insroland.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ancient Beasts Below</title>
+		<link>https://www.insroland.org/2009/06/30/mammoth/</link>
+					<comments>https://www.insroland.org/2009/06/30/mammoth/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2009 17:48:55 +0000</pubDate>
+				<category><![CDATA[animal]]></category>
+		<category><![CDATA[bones]]></category>
+		<category><![CDATA[brea]]></category>
+		<category><![CDATA[digging]]></category>
+		<category><![CDATA[fossil]]></category>
+		<category><![CDATA[kim]]></category>
+		<category><![CDATA[location tag]]></category>
+		<category><![CDATA[mammoth]]></category>
+		<category><![CDATA[monster]]></category>
+		<category><![CDATA[well]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[E.K. Green, commercial engineer, took time from his hobby of loudly criticizing City Engineer John Henry Dockweiler&#8217;s proposal to use fast-decaying wooden panels instead of iron or steel for the outflow sewer project to announce a fascinating discovery. During the digging of a well for a laundry on Winston near Main, at around 45 feet &#8230; <a href="https://www.insroland.org/2009/06/30/mammoth/" class="more-link">Continue reading <span class="screen-reader-text">Ancient Beasts Below</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>E.K. Green, commercial engineer, took time from his hobby of loudly criticizing City Engineer John Henry Dockweiler&#8217;s proposal to use fast-decaying wooden panels instead of iron or steel for the outflow sewer project to announce a fascinating discovery. </p>
+<p>During the digging of a well for a laundry on Winston near Main, at around 45 feet beneath the street, his workers hit something peculiar in a bed of gravel. On further inquiry, the substance was revealed to be portions of some enormous elephant-like creature, obviously buried long ago. The bones appeared to belong to a tusked creature of about twenty feet in length. Ribs were found, and an enormous ball joint. But as the bones crumbled to the touch, the workmen merely tossed them aside, and continued their labor. </p>
+<p>While we can find no reports of a long-dead mammoth haunting the silent nighttime streets of SRO Land, we will be nonetheless peering closely in shadows for any hint of spectral trunks and haunches.
+</p></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.insroland.org/2009/06/30/mammoth/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

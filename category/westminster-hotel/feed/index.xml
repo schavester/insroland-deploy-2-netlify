@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>westminster hotel &#8211; InSROland</title>
+	<atom:link href="https://www.insroland.org/category/westminster-hotel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.insroland.org/</link>
+	<description>lost lore of the historic core</description>
+	<lastBuildDate>Tue, 08 Mar 2016 01:03:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<title>westminster hotel &#8211; InSROland</title>
+	<link>https://www.insroland.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Anna&#8217;s Voices</title>
+		<link>https://www.insroland.org/2009/11/25/annasvoices/</link>
+					<comments>https://www.insroland.org/2009/11/25/annasvoices/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Wed, 25 Nov 2009 01:40:03 +0000</pubDate>
+				<category><![CDATA[kim]]></category>
+		<category><![CDATA[location tag]]></category>
+		<category><![CDATA[lunacy]]></category>
+		<category><![CDATA[mania]]></category>
+		<category><![CDATA[spiritualist]]></category>
+		<category><![CDATA[westminster hotel]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Pity Mrs. Anna Mulloy, who dabbled in the psychic sciences and discovered that the world of shadows and secrets is no place for a flesh and blood woman to linger. Anna first looked to the mysteries back home in Manitou, Colorado, where her husband M.E. was busy with his work as a contractor. She found &#8230; <a href="https://www.insroland.org/2009/11/25/annasvoices/" class="more-link">Continue reading <span class="screen-reader-text">Anna&#8217;s Voices</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>Pity Mrs. Anna Mulloy, who dabbled in the psychic sciences and discovered that the world of shadows and secrets is no place for a flesh and blood woman to linger.</p>
+<p>Anna first looked to the mysteries back home in Manitou, Colorado, where her husband M.E. was busy with his work as a contractor. She found she had a gift for hearing the voices of the dead, and what else could she do then but to listen? <em>&#8220;He&#8217;s cheating on you,&#8221;</em> the voices said, <em>&#8220;he loves another.&#8221;</em> And so in August 1899, Anna took her four little children and went to California. M.E. Mulloy sent her regular checks.</p>
+<p>But now the voices sang a new tune. <em>&#8220;Take the children,&#8221;</em> they said, <em>&#8220;Go to the grandest hotel you can find, and stay the night.&#8221;</em> Sometimes the voices were so insistent that Anna checked her brood into the Westminster itself &#8211; at a lordly cost of $2.50 a night!<br /><img loading="lazy" style="vertical-align: middle; border: 3px solid black;" src="http://farm3.static.flickr.com/2499/4132575484_cab28eb021.jpg" alt="Westminster Hotel (USC collection)" width="500" height="398" /><br />But it was in more modest lodgings in SRO land from which Anna penned the inspired missive that would bring her exhausting journey to an end. It was twelve pages in length and barely coherent, and when she had finished it, she placed it in an envelope addressed &#8220;Policeman, Los Angeles, CA&#8221; and asked one of her little ones to deliver it. Officer Zeigler accepted the packet, and soon Humane Officer Craig arrived, to take Anna away to the County Hospital on a lunacy complaint, and the little children to the Home of Mercy, just down the way on Boyd Street, to await instructions from their father in Colorado.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.insroland.org/2009/11/25/annasvoices/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

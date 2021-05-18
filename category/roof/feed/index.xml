@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>roof &#8211; InSROland</title>
+	<atom:link href="https://www.insroland.org/category/roof/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.insroland.org/</link>
+	<description>lost lore of the historic core</description>
+	<lastBuildDate>Tue, 08 Mar 2016 01:03:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<title>roof &#8211; InSROland</title>
+	<link>https://www.insroland.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Woken With A Bang</title>
+		<link>https://www.insroland.org/2010/02/13/ceilingsmasher/</link>
+					<comments>https://www.insroland.org/2010/02/13/ceilingsmasher/#comments</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Sat, 13 Feb 2010 16:19:27 +0000</pubDate>
+				<category><![CDATA[escape]]></category>
+		<category><![CDATA[kim]]></category>
+		<category><![CDATA[location tag]]></category>
+		<category><![CDATA[mystery]]></category>
+		<category><![CDATA[robbery]]></category>
+		<category><![CDATA[roof]]></category>
+		<category><![CDATA[weird]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Sleeping Joe Schutton was roused from his rest by an ungodly clash and clatter, and when he lit his lamp found a pair of thrashing man&#8217;s legs dangling from the ceiling as the man above made obvious attempts to escape back onto the roof through which he&#8217;d broken. Irked Joe would have none of that, &#8230; <a href="https://www.insroland.org/2010/02/13/ceilingsmasher/" class="more-link">Continue reading <span class="screen-reader-text">Woken With A Bang</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>Sleeping Joe Schutton was roused from his rest by an ungodly clash and clatter, and when he lit his lamp found a pair of thrashing man&#8217;s legs dangling from the ceiling as the man above made obvious attempts to escape back onto the roof through which he&#8217;d broken. Irked Joe would have none of that, and clung to the kicking feet, screaming loudly for aid.</p>
+<p>Patrolmen Sweeney and Kierscey were quick on the scene, and taking an accounting of the situation, raced to the roof where they extracted O.W. Coppington, 35, and asked what the hell he thought he was doing.</p>
+<p>&#8220;I&#8217;m the victim here,&#8221; swore Coppington, who told a convoluted tale of being halted at Winston near Main by a pair of highwaymen, who he&#8217;d eluded by racing up the first stairwell he spied, then out onto one roof, then another, then another&#8211;searching for an open skylight he could escape through. But when he leapt from a tall roof to a lower one, the shingles, lath and plaster broke away, waking Joe Schutton and leading to Coppington&#8217;s arrest. Skeptical, Sweeney and Kierscey took their prize back to City Jail for further conversation, while Joe Schutton shook the ceiling chips out of his sheets and tried to get back to sleep.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.insroland.org/2010/02/13/ceilingsmasher/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

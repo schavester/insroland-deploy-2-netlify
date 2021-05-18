@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>los angeles &#8211; InSROland</title>
+	<atom:link href="https://www.insroland.org/category/los-angeles/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.insroland.org/</link>
+	<description>lost lore of the historic core</description>
+	<lastBuildDate>Tue, 08 Mar 2016 00:59:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<title>los angeles &#8211; InSROland</title>
+	<link>https://www.insroland.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Grave Embarrassment in the Alexandria Hotel</title>
+		<link>https://www.insroland.org/2011/07/19/alexandriapink/</link>
+					<comments>https://www.insroland.org/2011/07/19/alexandriapink/#respond</comments>
+		
+		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
+		<pubDate>Tue, 19 Jul 2011 22:29:09 +0000</pubDate>
+				<category><![CDATA[alexandria hotel]]></category>
+		<category><![CDATA[embarrassment]]></category>
+		<category><![CDATA[los angeles]]></category>
+		<category><![CDATA[Nathan]]></category>
+		<category><![CDATA[pink pajamas]]></category>
+		<category><![CDATA[social mores]]></category>
+		<guid isPermaLink="false">http://www.insrolanmigrate.richardschave.com/2011/07/19/alexandriapink/</guid>
+
+					<description><![CDATA[Tongues were wagging on every floor of the Alexandria Hotel this morning, following the delicious faux pas of conservative businessman Walter Dinmore, a resident of San Francisco and Los Angeles. Roused by his &#8220;Jap&#8221; valet to take an important long distance telephone call from Santa Barbara in the lobby, the tousled Dinmore hurried from his &#8230; <a href="https://www.insroland.org/2011/07/19/alexandriapink/" class="more-link">Continue reading <span class="screen-reader-text">Grave Embarrassment in the Alexandria Hotel</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p><img loading="lazy" src="http://static.flickr.com/36/112970262_9bd30408e4_m.jpg" alt="" width="157" height="240" align="left" border="5" />Tongues were wagging on every floor of the <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=W+5th+St+%26+S+Spring+St,+Los+Angeles,+CA+90013&amp;ll=34.047472,-118.24961&amp;spn=0.030651,0.08008" target="_blank">Alexandria Hotel</a> this morning, following the delicious <em>faux pas</em> of conservative businessman Walter Dinmore, a resident of San Francisco and Los Angeles. Roused by his &#8220;Jap&#8221; valet to take an important long distance telephone call from Santa Barbara in the lobby, the tousled Dinmore hurried from his room, only to encounter barely supressed merriment at every turn.</p>
+<p>&nbsp;</p>
+<p>First a crew of Catholic girls fresh from their worships chortled, then an elderly lady he waved into the elevator seemed about to perish from the giggles. A bell hop dropped a pitcher of water, so great was his glee upon seeing Mr. Dinmore.</p>
+<p>Finally, the gentleman was alone in the telephone booth, where he had a moment to reflect upon the curious afflictions of his fellow guests&#8230; and gaze down his own legs, to see vast billows of pink silk pajama material covering his shoes. Mortified, he dashed for the elevators, but found them engaged. In rising horror, he grabbed a porter and demanded aid. The porter led the humiliated Dinmore into a secret nook below stairs where he could divest himself of his shameful sartorial sin, then slink upward, his errand quite forgotten.</p>
+<p><em>Below, a place where pink pajamas are not welcome.</em></p>
+<p><img src="http://static.flickr.com/55/112970261_5bb8ba3c46.jpg" alt="" border="0" /></p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.insroland.org/2011/07/19/alexandriapink/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

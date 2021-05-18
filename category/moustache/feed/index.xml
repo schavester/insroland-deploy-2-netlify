@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>moustache &#8211; InSROland</title>
+	<atom:link href="https://www.insroland.org/category/moustache/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.insroland.org/</link>
+	<description>lost lore of the historic core</description>
+	<lastBuildDate>Tue, 08 Mar 2016 01:03:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<title>moustache &#8211; InSROland</title>
+	<link>https://www.insroland.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Mystery Skull of Boyd Street</title>
+		<link>https://www.insroland.org/2009/08/05/boydstreetskull/</link>
+					<comments>https://www.insroland.org/2009/08/05/boydstreetskull/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2009 02:45:48 +0000</pubDate>
+				<category><![CDATA[charity]]></category>
+		<category><![CDATA[human]]></category>
+		<category><![CDATA[kim]]></category>
+		<category><![CDATA[location tag]]></category>
+		<category><![CDATA[moustache]]></category>
+		<category><![CDATA[mystery]]></category>
+		<category><![CDATA[prank]]></category>
+		<category><![CDATA[skull]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Walking in the alley behind the Sisters of Mercy building, where unfortunates were fed and housed, Fred Forsberg made a grim discovery: a partially mummified section of a human skull, with incongruously handsome, twirled moustaches above the former lips. The top of the skull had been neatly sawn off, suggesting the corpse had paid a &#8230; <a href="https://www.insroland.org/2009/08/05/boydstreetskull/" class="more-link">Continue reading <span class="screen-reader-text">The Mystery Skull of Boyd Street</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="body">
+<div>
+<p>Walking in the alley behind the Sisters of Mercy building, where unfortunates were fed and housed, Fred Forsberg made a grim discovery: a partially mummified section of a human skull, with incongruously handsome, twirled moustaches above the former lips. The top of the skull had been neatly sawn off, suggesting the corpse had paid a visit to an anatomical laboratory. </p>
+<p>Forsberg attempted to interest the police in his discovery, but to them it looked too old to be worth investigating. They did, however, deign to attach a note which read &#8220;ex-police reporter&#8221; and parked the relic in the station&#8217;s reporter&#8217;s room. And it was this prank which resulted in a few inches of column space in the <span style="font-style: italic;">Times</span> the following day, and keeps alive the memory of this nameless posthumous denizen of SRO Land. Here&#8217;s to ya, fella, whoever you were.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.insroland.org/2009/08/05/boydstreetskull/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
