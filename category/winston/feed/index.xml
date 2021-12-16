@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -48,9 +48,9 @@
 					<description><![CDATA[At noon, butcher William F. Mosher, 53, left his shop at 1703 East Washington Street and drove his horse-drawn rig, a sort of open carriage, home to 232 Â½ Winston Street, to dine with his family. His wife and adult children were waiting for him to come to the table when they heard a loud &#8230; <a href="https://www.insroland.org/2009/08/27/moshermashed/" class="more-link">Continue reading <span class="screen-reader-text">Nobody got their dinner</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p><img src="http://farm3.static.flickr.com/2653/3861472661_ac4a222c86_o.png" border="0" alt="" /><br />At noon, butcher William F. Mosher, 53, left his shop at 1703 East Washington Street and drove his horse-drawn rig, a sort of open carriage, home to 232 Â½ Winston Street, to dine with his family. His wife and adult children were waiting for him to come to the table when they heard a loud rattle as of a malfunctioning wagon, and ran outside to find Mosher lying half a block away, his rig on top of his crushed chest. He died moments later. </p>
-<p><img src="http://farm3.static.flickr.com/2497/3861472659_27f11c3a41_o.png" border="0" alt="" /><br />Later still, his horse was found at Winston and Wall, and it was presumed that Mosher had removed the bridle and been about to feed the animal when it was unaccountably spooked and took off running, dragging its master beneath the deadly wheels. The body was taken to Bresee Brothers on Mortuary Row at 855 South Figueroa, with a coroner&#8217;s inquest to precede burial.<br /><img src="http://farm1.static.flickr.com/56/112695133_098951d279_o.jpg" border="0" alt="Bresee Brothers detail" /></p>
-<p>Map detail from the <a href="http://memory.loc.gov/cgi-bin/query/r?ammem/gmd:@field%28NUMBER+@band%28g4364l+pm000290%29%29">1909 city map</a> compiled by Worthington Gates, Western Litho Co.<a onmousedown="UntrustedLink.bootstrap($(this), &quot;e62b93b90c4aa5e8b5349c8a8e084143&quot;, event)" rel="nofollow" href="http://memory.loc.gov/cgi-bin/query/r?ammem/gmd:@field%28NUMBER+@band%28g4364l+pm000290%29%29" target="_blank"></a></p>
+<p><img src="https://farm3.static.flickr.com/2653/3861472661_ac4a222c86_o.png" border="0" alt="" /><br />At noon, butcher William F. Mosher, 53, left his shop at 1703 East Washington Street and drove his horse-drawn rig, a sort of open carriage, home to 232 Â½ Winston Street, to dine with his family. His wife and adult children were waiting for him to come to the table when they heard a loud rattle as of a malfunctioning wagon, and ran outside to find Mosher lying half a block away, his rig on top of his crushed chest. He died moments later. </p>
+<p><img src="https://farm3.static.flickr.com/2497/3861472659_27f11c3a41_o.png" border="0" alt="" /><br />Later still, his horse was found at Winston and Wall, and it was presumed that Mosher had removed the bridle and been about to feed the animal when it was unaccountably spooked and took off running, dragging its master beneath the deadly wheels. The body was taken to Bresee Brothers on Mortuary Row at 855 South Figueroa, with a coroner&#8217;s inquest to precede burial.<br /><img src="https://farm1.static.flickr.com/56/112695133_098951d279_o.jpg" border="0" alt="Bresee Brothers detail" /></p>
+<p>Map detail from the <a href="https://memory.loc.gov/cgi-bin/query/r?ammem/gmd:@field%28NUMBER+@band%28g4364l+pm000290%29%29">1909 city map</a> compiled by Worthington Gates, Western Litho Co.<a onmousedown="UntrustedLink.bootstrap($(this), &quot;e62b93b90c4aa5e8b5349c8a8e084143&quot;, event)" rel="nofollow" href="https://memory.loc.gov/cgi-bin/query/r?ammem/gmd:@field%28NUMBER+@band%28g4364l+pm000290%29%29" target="_blank"></a></p>
 </div>
 </div>
 ]]></content:encoded>

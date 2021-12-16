@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -51,7 +51,7 @@
 					<description><![CDATA[Each day at noon, the little children emerge from their classroom at the San Pedro-street school and tramp off to their respective homes to have a nutritious lunch en famille. Dear little creatures, some barely old enough to walk, who spend their days in learning what life is all about, and the skills they&#8217;ll need &#8230; <a href="https://www.insroland.org/2009/11/12/peddler/" class="more-link">Continue reading <span class="screen-reader-text">A Peddler Pelted</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p><img src="http://farm3.static.flickr.com/2647/4097027815_42d4c507ca.jpg" alt="" /></p>
+<p><img src="https://farm3.static.flickr.com/2647/4097027815_42d4c507ca.jpg" alt="" /></p>
 <p>Each day at noon, the little children emerge from their classroom at the San Pedro-street school and tramp off to their respective homes to have a nutritious lunch <em>en famille.</em> Dear little creatures, some barely old enough to walk, who spend their days in learning what life is all about, and the skills they&#8217;ll need to navigate this fresh new city they are lucky enough to be citizens of.</p>
 <p>On this particular day, the wee ones engaged in their favorite noontime activity, the tormenting of a Chinese vegetable peddler whose route regrettably takes him near to their school. The children fell upon his wagon, snatching up potatoes with which to pelt the&#8230; well, he was not a man, exactly, he was a <em>Celestial</em>, in the parlance of the day.</p>
 <p>Enraged, the victim ran at the diminutive mob, waving his blacksnake whip and shrieking invective. What else could you expect from a savage? All the children scattered, save one terrified three-year-old boy. The vendor obligingly whipped the child about the head and the feet, compelling a passing white man to grab the whip and knock the Chinese to the ground. No one was badly hurt, and the parade moved on &#8212; just a typical happening in 1896 LA for all concerned.&nbsp; </p>
