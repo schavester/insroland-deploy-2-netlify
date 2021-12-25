@@ -12,8 +12,8 @@
 
 <channel>
 	<title>fraud &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/fraud-7/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/fraud-7/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:12:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>fraud &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Widow Robbed by Spiritualists</title>
-		<link>https://www.insroland.org/2010/10/15/dewdrop/</link>
-					<comments>https://www.insroland.org/2010/10/15/dewdrop/#respond</comments>
+		<link>/2010/10/15/dewdrop/</link>
+					<comments>/2010/10/15/dewdrop/#respond</comments>
 		
 		<dc:creator><![CDATA[Barbara Bogaev]]></dc:creator>
 		<pubDate>Fri, 15 Oct 2010 20:30:24 +0000</pubDate>
@@ -45,7 +45,7 @@
 		<category><![CDATA[medium]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[A young couple by the name of McCarthy came to Los Angeles in 1890, and quickly made money in the real estate game. As luck would have it, one year later, Mr. McCarthy fell ill and died.&#160; His widow, a healthy, handsome woman, was left a well appointed house on Temple street, but she proved &#8230; <a href="https://www.insroland.org/2010/10/15/dewdrop/" class="more-link">Continue reading <span class="screen-reader-text">Widow Robbed by Spiritualists</span></a>]]></description>
+					<description><![CDATA[A young couple by the name of McCarthy came to Los Angeles in 1890, and quickly made money in the real estate game. As luck would have it, one year later, Mr. McCarthy fell ill and died.&#160; His widow, a healthy, handsome woman, was left a well appointed house on Temple street, but she proved &#8230; <a href="/2010/10/15/dewdrop/" class="more-link">Continue reading <span class="screen-reader-text">Widow Robbed by Spiritualists</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>A young couple by the name of McCarthy came to Los Angeles in 1890, and quickly made money in the real estate game. As luck would have it, one year later, Mr. McCarthy fell ill and died.&nbsp; His widow, a healthy, handsome woman, was left a well appointed house on Temple street, but she proved unable to overcome her grief at the loss of her husband.&nbsp; She shut herself in her second story parlor, and refused her friends invitations and entreaties to re-enter society.&nbsp; Desperate to console her, they suggested she seek out spiritual support, and referred her to Mrs. Rich, a trance-medium of some local renown. After the widow had been visiting the medium for several weeks, friends noticed a definite change in her behavior.&nbsp; When they called on her in her rooms they found her greatly agitated, crouched down in one corner of her room, clutching paper and pencil, which she used, she explained, to record messages from her dead husband.&nbsp; The messages allegedly emanated from all corners and quarters of the room, and were sometimes delivered by a little girl named &#8220;Dewdrop.&#8221; </p>
@@ -56,15 +56,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2010/10/15/dewdrop/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/10/15/dewdrop/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Dead Man&#8217;s Chest</title>
-		<link>https://www.insroland.org/2009/12/09/deadmanschest/</link>
-					<comments>https://www.insroland.org/2009/12/09/deadmanschest/#respond</comments>
+		<link>/2009/12/09/deadmanschest/</link>
+					<comments>/2009/12/09/deadmanschest/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 09 Dec 2009 04:22:00 +0000</pubDate>
@@ -78,7 +78,7 @@
 		<category><![CDATA[mystery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Two weeks ago, the tearful relatives of Raymundo Reyes, 74, gathered at Calvary Cemetery for his burial. Not a week later, Reyes turned up, very much alive. Who then had died, this man who looked so much like Reyes that the whole family was fooled? No one had a clue until today, when Adam Kryst, &#8230; <a href="https://www.insroland.org/2009/12/09/deadmanschest/" class="more-link">Continue reading <span class="screen-reader-text">A Dead Man&#8217;s Chest</span></a>]]></description>
+					<description><![CDATA[Two weeks ago, the tearful relatives of Raymundo Reyes, 74, gathered at Calvary Cemetery for his burial. Not a week later, Reyes turned up, very much alive. Who then had died, this man who looked so much like Reyes that the whole family was fooled? No one had a clue until today, when Adam Kryst, &#8230; <a href="/2009/12/09/deadmanschest/" class="more-link">Continue reading <span class="screen-reader-text">A Dead Man&#8217;s Chest</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Two weeks ago, the tearful relatives of Raymundo Reyes, 74, gathered at Calvary Cemetery for his burial. Not a week later, Reyes turned up, very much alive.</p>
@@ -89,15 +89,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/12/09/deadmanschest/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/12/09/deadmanschest/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Scandal at Highland Asylum for the Insane</title>
-		<link>https://www.insroland.org/2009/08/29/asylumscandal/</link>
-					<comments>https://www.insroland.org/2009/08/29/asylumscandal/#respond</comments>
+		<link>/2009/08/29/asylumscandal/</link>
+					<comments>/2009/08/29/asylumscandal/#respond</comments>
 		
 		<dc:creator><![CDATA[Barbara Bogaev]]></dc:creator>
 		<pubDate>Sat, 29 Aug 2009 20:08:17 +0000</pubDate>
@@ -111,30 +111,30 @@
 		<category><![CDATA[suicide]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Second and Spring Streets, ca. 1920 Courtesy Los Angeles Public Library Photo Collection F.E. Howard would have plied his trade as a druggist at Deanâ€™s Drugstore on 2nd and Spring Street in relative anonymity if it werenâ€™t for the outcry raised by nurses at his former workplace, the Southern California Hospital for the Insane at &#8230; <a href="https://www.insroland.org/2009/08/29/asylumscandal/" class="more-link">Continue reading <span class="screen-reader-text">Scandal at Highland Asylum for the Insane</span></a>]]></description>
+					<description><![CDATA[Second and Spring Streets, ca. 1920 Courtesy Los Angeles Public Library Photo Collection F.E. Howard would have plied his trade as a druggist at Deanâ€™s Drugstore on 2nd and Spring Street in relative anonymity if it werenâ€™t for the outcry raised by nurses at his former workplace, the Southern California Hospital for the Insane at &#8230; <a href="/2009/08/29/asylumscandal/" class="more-link">Continue reading <span class="screen-reader-text">Scandal at Highland Asylum for the Insane</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img src="https://farm4.static.flickr.com/3520/3868486916_76702a54b5.jpg" border="0" alt="" /><br />Second and Spring Streets, ca. 1920 <br />Courtesy Los Angeles Public Library Photo Collection</p>
-<p>F.E. Howard would have plied his trade as a druggist at Deanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Drugstore on 2nd and Spring Street in relative anonymity if it werenâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t for the outcry raised by nurses at his former workplace, the Southern California Hospital for the Insane at Highland.</p>
+<p>F.E. Howard would have plied his trade as a druggist at Deanâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Drugstore on 2nd and Spring Street in relative anonymity if it werenâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t for the outcry raised by nurses at his former workplace, the Southern California Hospital for the Insane at Highland.</p>
 <p><img style="width: 220px; height: 500px;" src="https://farm4.static.flickr.com/3096/3868476752_e7db4f5304.jpg" border="0" alt="" /></p>
 <p>Allegations of cruel and inhuman abuse of the inmates at Highland surfaced in the summer of 1903, after San Bernardino papers published a series of investigations into graft and financial irregularities at the institution.&nbsp; The nurses charged that female patients were routinely operated on without the benefit of anesthesia, and were punished by â€œprotective sheetingâ€ or immobilization in their beds under sheets of heavy canvas, sometimes for weeks at a time.&nbsp; The nurses also testified to the common punishment known as â€œgiving the hypoâ€, hypodermic injections of apomorphia, a violent emetic that causes hours of agonizing cramps, followed by hours of vomiting and eventual collapse. The injections were repeated usually twice a day, for five days at a time, for such mild infractions as insubordination and â€œtalking in excess.â€</p>
 <p><img src="https://farm3.static.flickr.com/2505/3868602614_7c8878f969.jpg" border="0" alt="" /><br />State Hospital at Highland <br />Image courtesy of USC Digital Archives</p>
-<p>Before he signed on as an assistant at Deanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Drugs, F.E. Howard worked for two years as the druggist at Highland, and kept written records from his tenure that supported the nursesâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> testimony.&nbsp; He supplied the names of over forty victims of the body-wrenching, organ destroying emetic punishment, as well as the date the drug was administered. He also testified that the drug hyosine was used to punish recalcitrant patients, a medication which works on the kidneys and puts the victim to sleep.&nbsp; He alleged that at least one patient died as a result of a punitive hyosine injection. &nbsp;</p>
-<p><img src="https://farm3.static.flickr.com/2493/3868624400_b6a3b04226.jpg" border="0" alt="" /><br />In addition Mr. Howard provided records that supported allegations of graft and fraud in the institution.&nbsp; Highlandâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Superintendent Dr. Campbell, and chief medical officer Dr. Dolan rewarded his whistle-blowing with swift law-suits, accusing Howard of stealing government records.&nbsp; But they were unable to deflect the public outcry, or the findings of the investigation ordered by the Board of Directors of the state institution.&nbsp; By the end of the Highland scandal, both men resigned under pressure. Anticipating his own dismissal, a lower level official committed suicide on the grounds of the asylum.&nbsp; One year after leaving Highland, Dr. Dolan also departed this life.&nbsp; Whether he succumbed to heart disease or died by his own hand remains a mystery to this day.</p>
+<p>Before he signed on as an assistant at Deanâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Drugs, F.E. Howard worked for two years as the druggist at Highland, and kept written records from his tenure that supported the nursesâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> testimony.&nbsp; He supplied the names of over forty victims of the body-wrenching, organ destroying emetic punishment, as well as the date the drug was administered. He also testified that the drug hyosine was used to punish recalcitrant patients, a medication which works on the kidneys and puts the victim to sleep.&nbsp; He alleged that at least one patient died as a result of a punitive hyosine injection. &nbsp;</p>
+<p><img src="https://farm3.static.flickr.com/2493/3868624400_b6a3b04226.jpg" border="0" alt="" /><br />In addition Mr. Howard provided records that supported allegations of graft and fraud in the institution.&nbsp; Highlandâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Superintendent Dr. Campbell, and chief medical officer Dr. Dolan rewarded his whistle-blowing with swift law-suits, accusing Howard of stealing government records.&nbsp; But they were unable to deflect the public outcry, or the findings of the investigation ordered by the Board of Directors of the state institution.&nbsp; By the end of the Highland scandal, both men resigned under pressure. Anticipating his own dismissal, a lower level official committed suicide on the grounds of the asylum.&nbsp; One year after leaving Highland, Dr. Dolan also departed this life.&nbsp; Whether he succumbed to heart disease or died by his own hand remains a mystery to this day.</p>
 <p><img src="https://farm4.static.flickr.com/3461/3868633182_8db4872c3b_o.jpg" border="0" alt="" /></p>
 </div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/08/29/asylumscandal/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/08/29/asylumscandal/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Julian Pete, Loew&#8217;s State, and &#8220;the Decade of Debauchery&#8221;</title>
-		<link>https://www.insroland.org/2009/08/03/ccjulianfraud/</link>
-					<comments>https://www.insroland.org/2009/08/03/ccjulianfraud/#respond</comments>
+		<link>/2009/08/03/ccjulianfraud/</link>
+					<comments>/2009/08/03/ccjulianfraud/#respond</comments>
 		
 		<dc:creator><![CDATA[John Buntin]]></dc:creator>
 		<pubDate>Mon, 03 Aug 2009 13:55:50 +0000</pubDate>
@@ -145,7 +145,7 @@
 		<category><![CDATA[Loew's State]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[C.C. Julian was the Bernie Madoff of 1920s Los Angeles, a charming Canadian con man who hit oil in 1923 and then discovered something even more lucrative, over-selling shares in oil syndicates to oil-crazed Angelenos. At its height, Julian&#8217;s &#8220;Million Dollar Pool&#8221; attracted investors from Louis B. Mayer to H.M. Haldeman (father to Wategrate&#8217;s H.R.) &#8230; <a href="https://www.insroland.org/2009/08/03/ccjulianfraud/" class="more-link">Continue reading <span class="screen-reader-text">Julian Pete, Loew&#8217;s State, and &#8220;the Decade of Debauchery&#8221;</span></a>]]></description>
+					<description><![CDATA[C.C. Julian was the Bernie Madoff of 1920s Los Angeles, a charming Canadian con man who hit oil in 1923 and then discovered something even more lucrative, over-selling shares in oil syndicates to oil-crazed Angelenos. At its height, Julian&#8217;s &#8220;Million Dollar Pool&#8221; attracted investors from Louis B. Mayer to H.M. Haldeman (father to Wategrate&#8217;s H.R.) &#8230; <a href="/2009/08/03/ccjulianfraud/" class="more-link">Continue reading <span class="screen-reader-text">Julian Pete, Loew&#8217;s State, and &#8220;the Decade of Debauchery&#8221;</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><a title="CC julian by jbbuntin, on Flickr" href="https://www.flickr.com/photos/buntin/3785168170/"><img loading="lazy" src="https://farm3.static.flickr.com/2489/3785168170_0d5dda2476.jpg" alt="CC julian" width="239" height="500" align="left" /></a>C.C. Julian was the Bernie Madoff of 1920s Los Angeles, a charming Canadian con man who hit oil in 1923 and then discovered something even more lucrative, over-selling shares in oil syndicates to oil-crazed Angelenos. At its height, Julian&#8217;s &#8220;Million Dollar Pool&#8221; attracted investors from Louis B. Mayer to H.M. Haldeman (father to Wategrate&#8217;s H.R.) And from where did Julian and his trickster associate Jacob Berman run this scheme? Why take a look!</p>
@@ -154,7 +154,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/08/03/ccjulianfraud/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/08/03/ccjulianfraud/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

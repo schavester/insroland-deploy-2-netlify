@@ -12,21 +12,21 @@
 
 <channel>
 	<title>salvation &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/salvation/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/salvation/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
-	<lastBuildDate>Fri, 10 Aug 2018 21:31:56 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 01:43:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>salvation &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>identity &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/identity/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/identity/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:03:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>identity &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Dead Man&#8217;s Chest</title>
-		<link>https://www.insroland.org/2009/12/09/deadmanschest/</link>
-					<comments>https://www.insroland.org/2009/12/09/deadmanschest/#respond</comments>
+		<link>/2009/12/09/deadmanschest/</link>
+					<comments>/2009/12/09/deadmanschest/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 09 Dec 2009 04:22:00 +0000</pubDate>
@@ -47,7 +47,7 @@
 		<category><![CDATA[mystery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Two weeks ago, the tearful relatives of Raymundo Reyes, 74, gathered at Calvary Cemetery for his burial. Not a week later, Reyes turned up, very much alive. Who then had died, this man who looked so much like Reyes that the whole family was fooled? No one had a clue until today, when Adam Kryst, &#8230; <a href="https://www.insroland.org/2009/12/09/deadmanschest/" class="more-link">Continue reading <span class="screen-reader-text">A Dead Man&#8217;s Chest</span></a>]]></description>
+					<description><![CDATA[Two weeks ago, the tearful relatives of Raymundo Reyes, 74, gathered at Calvary Cemetery for his burial. Not a week later, Reyes turned up, very much alive. Who then had died, this man who looked so much like Reyes that the whole family was fooled? No one had a clue until today, when Adam Kryst, &#8230; <a href="/2009/12/09/deadmanschest/" class="more-link">Continue reading <span class="screen-reader-text">A Dead Man&#8217;s Chest</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Two weeks ago, the tearful relatives of Raymundo Reyes, 74, gathered at Calvary Cemetery for his burial. Not a week later, Reyes turned up, very much alive.</p>
@@ -58,7 +58,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/12/09/deadmanschest/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/12/09/deadmanschest/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>poisoned &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/poisoned/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/poisoned/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:03:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>poisoned &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mr. Johnson&#8217;s Mickey Finns</title>
-		<link>https://www.insroland.org/2009/06/27/mickeyfinn/</link>
-					<comments>https://www.insroland.org/2009/06/27/mickeyfinn/#respond</comments>
+		<link>/2009/06/27/mickeyfinn/</link>
+					<comments>/2009/06/27/mickeyfinn/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 27 Jun 2009 02:24:38 +0000</pubDate>
@@ -50,7 +50,7 @@
 		<category><![CDATA[sucker]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[George Brydon, resident of Sherman in the San Fernando Valley, was a prime rube, robbed twice before baring his shame to local police and newspaper readers. His sad tale began when he followed a man he knew as Johnson to a rooming house at 224 Winston, and shared two drinks with the acquaintance. Before long, &#8230; <a href="https://www.insroland.org/2009/06/27/mickeyfinn/" class="more-link">Continue reading <span class="screen-reader-text">Mr. Johnson&#8217;s Mickey Finns</span></a>]]></description>
+					<description><![CDATA[George Brydon, resident of Sherman in the San Fernando Valley, was a prime rube, robbed twice before baring his shame to local police and newspaper readers. His sad tale began when he followed a man he knew as Johnson to a rooming house at 224 Winston, and shared two drinks with the acquaintance. Before long, &#8230; <a href="/2009/06/27/mickeyfinn/" class="more-link">Continue reading <span class="screen-reader-text">Mr. Johnson&#8217;s Mickey Finns</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>George Brydon, resident of Sherman in the San Fernando Valley, was a prime rube, robbed twice before baring his shame to local police and newspaper readers. His sad tale began when he followed a man he knew as Johnson to a rooming house at 224 Winston, and shared two drinks with the acquaintance. Before long, he sank into the blackness of the drugged, and awoke much later, sans rings, watch and cash. Stumbling about seeking his lost goods, Brydon attracted the attention of friend Johnson, who returned with another man, and together they tied their victim&#8217;s hands with his own belt, forced him to swallow liquor, then administered a beating. Brydon again passed out, and awake to find he had now been relieved of his clothing, as well. Someone in a nearby room called for help, and after treatment at the Receiving Hospital, the unfortunate fellow borrowed a wrapper from a friendly cop and slunk home to sleep it off. If he came again to SRO Land, it didn&#8217;t make the papers.</p>
@@ -58,7 +58,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/06/27/mickeyfinn/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/06/27/mickeyfinn/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Nathan Marsak &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/author/nathan/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/author/nathan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 15 Mar 2016 20:48:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>Nathan Marsak &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The URM&#8217;s First Home &#8211; 145 North Main</title>
-		<link>https://www.insroland.org/2011/10/20/firsthome/</link>
-					<comments>https://www.insroland.org/2011/10/20/firsthome/#respond</comments>
+		<link>/2011/10/20/firsthome/</link>
+					<comments>/2011/10/20/firsthome/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Thu, 20 Oct 2011 13:42:29 +0000</pubDate>
@@ -41,10 +41,10 @@
 		<category><![CDATA[URM]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The Union Rescue Mission is well-remembered for its historic home at 226 South Main, where it held forth for fifty-plus years.&#160; That site, a labyrinthian place made up of two large linked structures, was famously felled for parking in the mid-1990s, though continues on in the memories of many.&#160; Before 226, the Mission spent a &#8230; <a href="https://www.insroland.org/2011/10/20/firsthome/" class="more-link">Continue reading <span class="screen-reader-text">The URM&#8217;s First Home &#8211; 145 North Main</span></a>]]></description>
+					<description><![CDATA[The Union Rescue Mission is well-remembered for its historic home at 226 South Main, where it held forth for fifty-plus years.&#160; That site, a labyrinthian place made up of two large linked structures, was famously felled for parking in the mid-1990s, though continues on in the memories of many.&#160; Before 226, the Mission spent a &#8230; <a href="/2011/10/20/firsthome/" class="more-link">Continue reading <span class="screen-reader-text">The URM&#8217;s First Home &#8211; 145 North Main</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
-<p>The Union Rescue Mission is well-remembered for its historic home at <a title="226" href="https://www.insroland.org/urm/swanfeldtbldg" target="_blank">226 South Main</a>, where it held forth for fifty-plus years.&nbsp; That site, a labyrinthian place made up of two large linked structures, was famously felled for parking in the mid-1990s, though continues on in the memories of many.&nbsp; Before 226, the Mission spent a near quarter-century in another structure:&nbsp; it is long forgotten, as is the streetscape around it, all obliterated in the name of Civic progress.</p>
+<p>The Union Rescue Mission is well-remembered for its historic home at <a title="226" href="/urm/swanfeldtbldg" target="_blank">226 South Main</a>, where it held forth for fifty-plus years.&nbsp; That site, a labyrinthian place made up of two large linked structures, was famously felled for parking in the mid-1990s, though continues on in the memories of many.&nbsp; Before 226, the Mission spent a near quarter-century in another structure:&nbsp; it is long forgotten, as is the streetscape around it, all obliterated in the name of Civic progress.</p>
 <p>Truth be told, the Mission had a collection of &#8220;first homes.&#8221;&nbsp; There was an office at 431-433 South Spring, larger rooms in a converted saloon near Second and Main, and through the 1890s, a nomadic tent life under canvas roofs on lots located at Second and Spring, First and Los Angeles, and/or First and Spring. The Depression of &#8217;93 and the Panic of &#8217;01 certainly helped send men into the tents.</p>
 <p>In March of 1903, the Pacific Gospel Mission set down roots in a narrow, two-story structure at 145 North Main.&nbsp; <a title="main91" href="https://farm7.static.flickr.com/6240/6262930938_e514b51cba_b.jpg" target="_blank">(This</a> is a view of Main in 1891, from out the window of the Natick, looking north across First, our Mission at 145 would be up the block, flush against the left side of image.)&nbsp; After they move into 145, the Pacific Gospel Union AKA Pacific Rescue Mission becomes, under the able hand of Union Oil (besides Lyman Stewart&#8217;s tutelage, many early Mission movers and shakers were UO bigwigs, e.g. Giles Kellogg and Robert Watchorn, or Union friendlies like Herbert G. Wylie, et al), the Union Rescue Mission.</p>
 <p>Though 145 was not large, the rented rooms there and its evangelical crew produce great work &#8212; in 1906 they held 1,800 services; gave food, clothing and shelter to 2,700; saw 3,201 men and women converted to Christ; and reunited 132 families.&nbsp; The next year Union Rescue buys the building outright.&nbsp; <a title="testify" href="https://farm7.static.flickr.com/6031/6262404717_4f67d844f3_o.jpg" target="_blank">Testimonials</a> from those turned from drink and crime blossom.&nbsp; It is at this time, 1907, that indignant saloon keepers and liquor wholesalers took their protests to the City Council and had the Mission&#8217;s colorful <a title="damnhobos" href="https://farm7.static.flickr.com/6055/6262404397_01dbe4ff46_o.jpg" target="_blank">public enterprises</a> curtailed.&nbsp;</p>
@@ -56,19 +56,19 @@
 <p>Not to mention the whole rest of the block &#8212; <a title="upmain" href="https://farm7.static.flickr.com/6118/6262407205_8a6bf923ff_b.jpg" target="_blank">here</a> we see it from 115 up to the hotel at 151, the large building across Court St. is the 1896 <a title="bullard" href="https://digitallibrary.usc.edu/search/controller/view/chs-m1065.html?x=1319090407990" target="_blank">J. A. Bullard Block</a>.&nbsp; Because there&#8217;s what looks to be demo fencing, nor does the Bullard appear to have any windows, I think it&#8217;s fair to assume this was during the early moments of her removal.&nbsp; Which means time is limited for <a title="timelimited" href="https://farm7.static.flickr.com/6060/6262405613_e356f075ec_o.jpg" target="_blank">everybody</a>.&nbsp;</p>
 </div>
 </div>
-<div class="field_image"><img src="https://www.insroland.org/wp-content/uploads/postSmall.jpg" title="postSmall.jpg" alt="postSmall.jpg" /></div>
-<div class="field_image"><img src="https://www.insroland.org/wp-content/uploads/145NmainDiningHall.jpg" title="145NmainDiningHall.jpg" alt="145NmainDiningHall.jpg" /></div>
+<div class="field_image"><img src="/wp-content/uploads/postSmall.jpg" title="postSmall.jpg" alt="postSmall.jpg" /></div>
+<div class="field_image"><img src="/wp-content/uploads/145NmainDiningHall.jpg" title="145NmainDiningHall.jpg" alt="145NmainDiningHall.jpg" /></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2011/10/20/firsthome/feed/</wfw:commentRss>
+					<wfw:commentRss>/2011/10/20/firsthome/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Grave Embarrassment in the Alexandria Hotel</title>
-		<link>https://www.insroland.org/2011/07/19/alexandriapink/</link>
-					<comments>https://www.insroland.org/2011/07/19/alexandriapink/#respond</comments>
+		<link>/2011/07/19/alexandriapink/</link>
+					<comments>/2011/07/19/alexandriapink/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Tue, 19 Jul 2011 22:29:09 +0000</pubDate>
@@ -80,7 +80,7 @@
 		<category><![CDATA[social mores]]></category>
 		<guid isPermaLink="false">https://www.insrolanmigrate.richardschave.com/2011/07/19/alexandriapink/</guid>
 
-					<description><![CDATA[Tongues were wagging on every floor of the Alexandria Hotel this morning, following the delicious faux pas of conservative businessman Walter Dinmore, a resident of San Francisco and Los Angeles. Roused by his &#8220;Jap&#8221; valet to take an important long distance telephone call from Santa Barbara in the lobby, the tousled Dinmore hurried from his &#8230; <a href="https://www.insroland.org/2011/07/19/alexandriapink/" class="more-link">Continue reading <span class="screen-reader-text">Grave Embarrassment in the Alexandria Hotel</span></a>]]></description>
+					<description><![CDATA[Tongues were wagging on every floor of the Alexandria Hotel this morning, following the delicious faux pas of conservative businessman Walter Dinmore, a resident of San Francisco and Los Angeles. Roused by his &#8220;Jap&#8221; valet to take an important long distance telephone call from Santa Barbara in the lobby, the tousled Dinmore hurried from his &#8230; <a href="/2011/07/19/alexandriapink/" class="more-link">Continue reading <span class="screen-reader-text">Grave Embarrassment in the Alexandria Hotel</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" src="https://static.flickr.com/36/112970262_9bd30408e4_m.jpg" alt="" width="157" height="240" align="left" border="5" />Tongues were wagging on every floor of the <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;q=W+5th+St+%26+S+Spring+St,+Los+Angeles,+CA+90013&amp;ll=34.047472,-118.24961&amp;spn=0.030651,0.08008" target="_blank">Alexandria Hotel</a> this morning, following the delicious <em>faux pas</em> of conservative businessman Walter Dinmore, a resident of San Francisco and Los Angeles. Roused by his &#8220;Jap&#8221; valet to take an important long distance telephone call from Santa Barbara in the lobby, the tousled Dinmore hurried from his room, only to encounter barely supressed merriment at every turn.</p>
@@ -93,15 +93,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2011/07/19/alexandriapink/feed/</wfw:commentRss>
+					<wfw:commentRss>/2011/07/19/alexandriapink/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ghosts of the Menlo Hotel</title>
-		<link>https://www.insroland.org/2011/03/29/ghosts-of-the-menlo-hotel/</link>
-					<comments>https://www.insroland.org/2011/03/29/ghosts-of-the-menlo-hotel/#respond</comments>
+		<link>/2011/03/29/ghosts-of-the-menlo-hotel/</link>
+					<comments>/2011/03/29/ghosts-of-the-menlo-hotel/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Tue, 29 Mar 2011 17:57:35 +0000</pubDate>
@@ -109,7 +109,7 @@
 		<category><![CDATA[Nathan]]></category>
 		<guid isPermaLink="false">https://www.insrolanmigrate.richardschave.com/2011/03/29/ghosts-of-the-menlo-hotel/</guid>
 
-					<description><![CDATA[The old Menlo Hotel, corner of Winston and Main, was the way station for many a visiting Angeleno, and the last exit for a few. The Menlo offered moderate weekly and monthly rates to appeal to the varied respectable folk who flocked to the growing city. Most of them are long forgotten, but it&#8217;s hard &#8230; <a href="https://www.insroland.org/2011/03/29/ghosts-of-the-menlo-hotel/" class="more-link">Continue reading <span class="screen-reader-text">Ghosts of the Menlo Hotel</span></a>]]></description>
+					<description><![CDATA[The old Menlo Hotel, corner of Winston and Main, was the way station for many a visiting Angeleno, and the last exit for a few. The Menlo offered moderate weekly and monthly rates to appeal to the varied respectable folk who flocked to the growing city. Most of them are long forgotten, but it&#8217;s hard &#8230; <a href="/2011/03/29/ghosts-of-the-menlo-hotel/" class="more-link">Continue reading <span class="screen-reader-text">Ghosts of the Menlo Hotel</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>The old Menlo Hotel, corner of Winston and Main, was the way station for many a visiting Angeleno, and the last exit for a few. The Menlo offered moderate weekly and monthly rates to appeal to the varied respectable folk who flocked to the growing city. Most of them are long forgotten, but it&#8217;s hard to feel badly about this obscurity. When the names are known, too often there&#8217;s tragedy attached.</p>
@@ -131,15 +131,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2011/03/29/ghosts-of-the-menlo-hotel/feed/</wfw:commentRss>
+					<wfw:commentRss>/2011/03/29/ghosts-of-the-menlo-hotel/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Case of the Medical Electrician aka Abortionist</title>
-		<link>https://www.insroland.org/2011/03/23/the-case-of-the-medical-electrician-aka-abortionist/</link>
-					<comments>https://www.insroland.org/2011/03/23/the-case-of-the-medical-electrician-aka-abortionist/#respond</comments>
+		<link>/2011/03/23/the-case-of-the-medical-electrician-aka-abortionist/</link>
+					<comments>/2011/03/23/the-case-of-the-medical-electrician-aka-abortionist/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Wed, 23 Mar 2011 19:26:19 +0000</pubDate>
@@ -147,20 +147,20 @@
 		<category><![CDATA[Nathan]]></category>
 		<guid isPermaLink="false">https://www.insrolanmigrate.richardschave.com/2011/03/23/the-case-of-the-medical-electrician-aka-abortionist/</guid>
 
-					<description><![CDATA[â€œ &#8220;The girl was thirsty and wanted ice water constantly.Â  She wouldnâ€™t eat much, and vomited black stuff.Â  She was in a great deal of pain on her left side and her abdomen.â€Â  So ended the short life of Lillie Hattery, age 22, on February 5th, 1897, in the clinic of â€œDr.â€ Calvin S. Hastings, &#8230; <a href="https://www.insroland.org/2011/03/23/the-case-of-the-medical-electrician-aka-abortionist/" class="more-link">Continue reading <span class="screen-reader-text">The Case of the Medical Electrician aka Abortionist</span></a>]]></description>
+					<description><![CDATA[â€œ &#8220;The girl was thirsty and wanted ice water constantly.Â  She wouldnâ€™t eat much, and vomited black stuff.Â  She was in a great deal of pain on her left side and her abdomen.â€Â  So ended the short life of Lillie Hattery, age 22, on February 5th, 1897, in the clinic of â€œDr.â€ Calvin S. Hastings, &#8230; <a href="/2011/03/23/the-case-of-the-medical-electrician-aka-abortionist/" class="more-link">Continue reading <span class="screen-reader-text">The Case of the Medical Electrician aka Abortionist</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img style="width: 272px; height: 424px;" src="https://farm3.static.flickr.com/2519/3898894427_03e1f12d01.jpg" alt="" border="0" />â€œ<br />
-&#8220;The girl was thirsty and wanted ice water constantly.Â  She wouldnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t eat much, and vomited black stuff.Â  She was in a great deal of pain on her left side and her abdomen.â€Â  So ended the short life of Lillie Hattery, age 22, on February 5th, 1897, in the clinic of â€œDr.â€ Calvin S. Hastings, Medical Electrician, according to testimony presented at his murder trial.</p>
+&#8220;The girl was thirsty and wanted ice water constantly.Â  She wouldnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t eat much, and vomited black stuff.Â  She was in a great deal of pain on her left side and her abdomen.â€Â  So ended the short life of Lillie Hattery, age 22, on February 5th, 1897, in the clinic of â€œDr.â€ Calvin S. Hastings, Medical Electrician, according to testimony presented at his murder trial.</p>
 <p><img src="https://farm3.static.flickr.com/2553/3899702286_923918e934.jpg" alt="" border="0" /><img src="https://farm4.static.flickr.com/3532/3899710960_6d3b474e40.jpg" alt="" border="0" /></p>
-<p>When Lillie Hattery came from San Bernardino to visit her sister in Los Angeles in late January, she arrived with the names of people rumored to perform â€œcriminal operations.â€Â  â€œDr.â€ Hastings, who practiced without the benefit of a medical license, was third on the list.Â  According to testimony at the trial, Lillie paid $200 for Hastings&#8217; services, which included multiple applications of electrical current to the back and abdomen, as well as a surgical procedure, which resulted in copious blood loss by the patient.Â  Lillie suffered from fever, convulsions, and severe pain for a week, during which Hastings treated her solely with electrical stimulation. Two licensed medical doctors examined Lillieâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s body after it had been delivered to the morgue, and determined that the cause of death was septicemia due to blood poisoning.Â  They also determined that she had been pregnant and undergone an attempted abortion.</p>
+<p>When Lillie Hattery came from San Bernardino to visit her sister in Los Angeles in late January, she arrived with the names of people rumored to perform â€œcriminal operations.â€Â  â€œDr.â€ Hastings, who practiced without the benefit of a medical license, was third on the list.Â  According to testimony at the trial, Lillie paid $200 for Hastings&#8217; services, which included multiple applications of electrical current to the back and abdomen, as well as a surgical procedure, which resulted in copious blood loss by the patient.Â  Lillie suffered from fever, convulsions, and severe pain for a week, during which Hastings treated her solely with electrical stimulation. Two licensed medical doctors examined Lillieâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s body after it had been delivered to the morgue, and determined that the cause of death was septicemia due to blood poisoning.Â  They also determined that she had been pregnant and undergone an attempted abortion.</p>
 <p><img src="https://farm3.static.flickr.com/2425/3899732806_5a10e95d27.jpg" alt="" border="0" /></p>
-<p>At his trial, Hastings testified that Lillie Hattery suffered from an injured ankle, which he treated with electrical stimulation.Â  He claimed that she appeared in good health until the very last moment before she succumbed to what he assumed must have been an internal abnormality such as a diseased heart or some other affliction.Â  Although the prosecution presented evidence of perjury and intimidation of witnesses on the part of both Hastings and his nurse, along with surgical instruments found in Hastingsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> offices that were commonly used for abortion procedures, as well as closed court testimony from a young woman who had recently undergone the criminal operation in Hastingsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> care and had almost died, the jury still found Hastings innocent in the death of Lillie Hattery.</p>
-<p>Hastings was even able to post bond during the trial, thanks to the generosity of a female admirer, and re-located his Medical Electrician clinic for business down the street in the Hammond Block at 120 1/2 South Spring.Â  Hastingsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Medical Electrician Clinicâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Grand Opening so provoked a dentist in residence there that the man came to blows with the rental agent, and promptly moved out of the disgraced office building, where, he claimed, no decent woman would now darken a door.</p>
+<p>At his trial, Hastings testified that Lillie Hattery suffered from an injured ankle, which he treated with electrical stimulation.Â  He claimed that she appeared in good health until the very last moment before she succumbed to what he assumed must have been an internal abnormality such as a diseased heart or some other affliction.Â  Although the prosecution presented evidence of perjury and intimidation of witnesses on the part of both Hastings and his nurse, along with surgical instruments found in Hastingsâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> offices that were commonly used for abortion procedures, as well as closed court testimony from a young woman who had recently undergone the criminal operation in Hastingsâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> care and had almost died, the jury still found Hastings innocent in the death of Lillie Hattery.</p>
+<p>Hastings was even able to post bond during the trial, thanks to the generosity of a female admirer, and re-located his Medical Electrician clinic for business down the street in the Hammond Block at 120 1/2 South Spring.Â  Hastingsâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Medical Electrician Clinicâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Grand Opening so provoked a dentist in residence there that the man came to blows with the rental agent, and promptly moved out of the disgraced office building, where, he claimed, no decent woman would now darken a door.</p>
 <p><img src="https://farm3.static.flickr.com/2579/3899743642_f94fb14fa0.jpg" alt="" border="0" /><br />
 Spring Street, looking south from First Street 1900-1910<br />
 USC Digital Archive</p>
-<p>After his acquittal, Hastings married the woman who posted his bond.Â  In later years she turns up as one of the many sufferers who find miraculous relief at the hands of the great healer, Rama, of the Rama Institute at 305 Â½ South Spring Streets, Los Angeles. One can only wonder why Mrs. Hastingsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> own husband was unable to heal her deafness with his electrical stimulation.</p>
+<p>After his acquittal, Hastings married the woman who posted his bond.Â  In later years she turns up as one of the many sufferers who find miraculous relief at the hands of the great healer, Rama, of the Rama Institute at 305 Â½ South Spring Streets, Los Angeles. One can only wonder why Mrs. Hastingsâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> own husband was unable to heal her deafness with his electrical stimulation.</p>
 <p><img src="https://farm4.static.flickr.com/3516/3899717542_728abc70bf.jpg" alt="" border="0" /><img src="https://farm3.static.flickr.com/2582/3898924935_afae9c4393.jpg" alt="" border="0" /><br />
 LA Times Historical Archives</p>
 <p>Dr. Calvin S. Hastings was still practicing medicine without a license in 1911 when the state attorney filed a complaint against him during a campaign to shut down so-called â€œQuack Chink Doctors.&#8221;</p>
@@ -168,7 +168,7 @@ LA Times Historical Archives</p>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2011/03/23/the-case-of-the-medical-electrician-aka-abortionist/feed/</wfw:commentRss>
+					<wfw:commentRss>/2011/03/23/the-case-of-the-medical-electrician-aka-abortionist/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

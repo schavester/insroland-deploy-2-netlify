@@ -12,8 +12,8 @@
 
 <channel>
 	<title>attempted murder &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/attempted-murder/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/attempted-murder/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:01:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>attempted murder &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Wages of Sin</title>
-		<link>https://www.insroland.org/2009/12/09/wagesin/</link>
-					<comments>https://www.insroland.org/2009/12/09/wagesin/#respond</comments>
+		<link>/2009/12/09/wagesin/</link>
+					<comments>/2009/12/09/wagesin/#respond</comments>
 		
 		<dc:creator><![CDATA[Barbara Bogaev]]></dc:creator>
 		<pubDate>Wed, 09 Dec 2009 07:00:28 +0000</pubDate>
@@ -47,7 +47,7 @@
 		<category><![CDATA[tragic]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#160; &#160; That headline pretty much covers the whole story; just another night in a boardinghouse in SRO land. In the spring of 1895, Charles Stanley was working as a cook at the Glenwood Hotel, Riverside, where he met a pretty young waitress, Bessie Bradley. Within a month they were married, had found new jobs &#8230; <a href="https://www.insroland.org/2009/12/09/wagesin/" class="more-link">Continue reading <span class="screen-reader-text">Wages of Sin</span></a>]]></description>
+					<description><![CDATA[&#160; &#160; That headline pretty much covers the whole story; just another night in a boardinghouse in SRO land. In the spring of 1895, Charles Stanley was working as a cook at the Glenwood Hotel, Riverside, where he met a pretty young waitress, Bessie Bradley. Within a month they were married, had found new jobs &#8230; <a href="/2009/12/09/wagesin/" class="more-link">Continue reading <span class="screen-reader-text">Wages of Sin</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>&nbsp;</p>
@@ -66,7 +66,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/12/09/wagesin/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/12/09/wagesin/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

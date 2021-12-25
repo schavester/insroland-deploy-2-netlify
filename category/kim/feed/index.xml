@@ -12,8 +12,8 @@
 
 <channel>
 	<title>kim &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/kim/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/kim/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:03:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>kim &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A successful, failed bank job</title>
-		<link>https://www.insroland.org/2011/03/31/stonge/</link>
-					<comments>https://www.insroland.org/2011/03/31/stonge/#respond</comments>
+		<link>/2011/03/31/stonge/</link>
+					<comments>/2011/03/31/stonge/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 31 Mar 2011 22:09:41 +0000</pubDate>
@@ -44,7 +44,7 @@
 		<category><![CDATA[robbery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The desperate man walked into the Bank of America branch and crossed the lobby to the second teller window&#8211;to Mrs. Joy Holker, 28, the one with the kind eyes. He handed her a brown envelope and a note which read &#8220;This is a holdup. Fill up the envelope. Also have a jar of acid.&#8221; She &#8230; <a href="https://www.insroland.org/2011/03/31/stonge/" class="more-link">Continue reading <span class="screen-reader-text">A successful, failed bank job</span></a>]]></description>
+					<description><![CDATA[The desperate man walked into the Bank of America branch and crossed the lobby to the second teller window&#8211;to Mrs. Joy Holker, 28, the one with the kind eyes. He handed her a brown envelope and a note which read &#8220;This is a holdup. Fill up the envelope. Also have a jar of acid.&#8221; She &#8230; <a href="/2011/03/31/stonge/" class="more-link">Continue reading <span class="screen-reader-text">A successful, failed bank job</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><a title="Bank of America, Broadway &amp; 7th (LAPL) by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/5578142596/"><img loading="lazy" src="https://farm6.static.flickr.com/5306/5578142596_c28b006ae9.jpg" alt="Bank of America, Broadway &amp; 7th (LAPL)" width="391" height="500" /></a></p>
@@ -65,15 +65,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2011/03/31/stonge/feed/</wfw:commentRss>
+					<wfw:commentRss>/2011/03/31/stonge/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Woken With A Bang</title>
-		<link>https://www.insroland.org/2010/02/13/ceilingsmasher/</link>
-					<comments>https://www.insroland.org/2010/02/13/ceilingsmasher/#comments</comments>
+		<link>/2010/02/13/ceilingsmasher/</link>
+					<comments>/2010/02/13/ceilingsmasher/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Sat, 13 Feb 2010 16:19:27 +0000</pubDate>
@@ -86,7 +86,7 @@
 		<category><![CDATA[weird]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Sleeping Joe Schutton was roused from his rest by an ungodly clash and clatter, and when he lit his lamp found a pair of thrashing man&#8217;s legs dangling from the ceiling as the man above made obvious attempts to escape back onto the roof through which he&#8217;d broken. Irked Joe would have none of that, &#8230; <a href="https://www.insroland.org/2010/02/13/ceilingsmasher/" class="more-link">Continue reading <span class="screen-reader-text">Woken With A Bang</span></a>]]></description>
+					<description><![CDATA[Sleeping Joe Schutton was roused from his rest by an ungodly clash and clatter, and when he lit his lamp found a pair of thrashing man&#8217;s legs dangling from the ceiling as the man above made obvious attempts to escape back onto the roof through which he&#8217;d broken. Irked Joe would have none of that, &#8230; <a href="/2010/02/13/ceilingsmasher/" class="more-link">Continue reading <span class="screen-reader-text">Woken With A Bang</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Sleeping Joe Schutton was roused from his rest by an ungodly clash and clatter, and when he lit his lamp found a pair of thrashing man&#8217;s legs dangling from the ceiling as the man above made obvious attempts to escape back onto the roof through which he&#8217;d broken. Irked Joe would have none of that, and clung to the kicking feet, screaming loudly for aid.</p>
@@ -96,15 +96,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2010/02/13/ceilingsmasher/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/02/13/ceilingsmasher/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Flames of Peace</title>
-		<link>https://www.insroland.org/2010/01/20/florencebeaumont/</link>
-					<comments>https://www.insroland.org/2010/01/20/florencebeaumont/#respond</comments>
+		<link>/2010/01/20/florencebeaumont/</link>
+					<comments>/2010/01/20/florencebeaumont/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 20 Jan 2010 05:09:50 +0000</pubDate>
@@ -116,7 +116,7 @@
 		<category><![CDATA[war]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[October 15, 1967 Late on Sunday morning, Florence Beaumont, 56-year-old former English teacher, Unitarian peace activist and mother of two, gathered a selection of literature pertaining to her activities in the anti-Vietnam war movement, climbed into her pickup truck with its Peace and Freedom Party bumper sticker and drove from her home in La Puente &#8230; <a href="https://www.insroland.org/2010/01/20/florencebeaumont/" class="more-link">Continue reading <span class="screen-reader-text">Flames of Peace</span></a>]]></description>
+					<description><![CDATA[October 15, 1967 Late on Sunday morning, Florence Beaumont, 56-year-old former English teacher, Unitarian peace activist and mother of two, gathered a selection of literature pertaining to her activities in the anti-Vietnam war movement, climbed into her pickup truck with its Peace and Freedom Party bumper sticker and drove from her home in La Puente &#8230; <a href="/2010/01/20/florencebeaumont/" class="more-link">Continue reading <span class="screen-reader-text">Flames of Peace</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img src="https://farm5.static.flickr.com/4048/4289897620_f4fdcbfa32_o.png" alt="" /></p>
@@ -131,15 +131,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2010/01/20/florencebeaumont/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/01/20/florencebeaumont/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>&#8220;Captain&#8221; Wolf Takes A Trip</title>
-		<link>https://www.insroland.org/2010/01/14/captainwolf/</link>
-					<comments>https://www.insroland.org/2010/01/14/captainwolf/#respond</comments>
+		<link>/2010/01/14/captainwolf/</link>
+					<comments>/2010/01/14/captainwolf/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 14 Jan 2010 07:56:06 +0000</pubDate>
@@ -151,7 +151,7 @@
 		<category><![CDATA[transportation]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#8220;Captain&#8221; Maximilian Wolf, self-styled, was a visionary of early Los Angeles. He arrived from San Francisco with a colleague who planned to host a fair at Hazard&#8217;s Pavilion at 5th and Olive, went mad for a spell, was freed, then entered into a period of creative mania.&#160;&#160; In 1896 he sought to demonstrate the efficacy &#8230; <a href="https://www.insroland.org/2010/01/14/captainwolf/" class="more-link">Continue reading <span class="screen-reader-text">&#8220;Captain&#8221; Wolf Takes A Trip</span></a>]]></description>
+					<description><![CDATA[&#8220;Captain&#8221; Maximilian Wolf, self-styled, was a visionary of early Los Angeles. He arrived from San Francisco with a colleague who planned to host a fair at Hazard&#8217;s Pavilion at 5th and Olive, went mad for a spell, was freed, then entered into a period of creative mania.&#160;&#160; In 1896 he sought to demonstrate the efficacy &#8230; <a href="/2010/01/14/captainwolf/" class="more-link">Continue reading <span class="screen-reader-text">&#8220;Captain&#8221; Wolf Takes A Trip</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>&#8220;Captain&#8221; Maximilian Wolf, self-styled, was a visionary of early Los Angeles. He arrived from San Francisco with a colleague who planned to host a fair at Hazard&#8217;s Pavilion at 5th and Olive, went mad for a spell, was freed, then entered into a period of creative mania.<br />&nbsp;&nbsp; <br />In 1896 he sought to demonstrate the efficacy of his theories on alternative transport by way of a Water Bicycle, a device comprised of two fifteen-by-two-foot pontoons on each of which a bike was placed. By pushing the pedals, a series of cogs revolved, eventually powering two fishy fins beneath each pontoon. Put an awning up, and one could enjoy a cigar or cool tea on the open water. A rudder, at the front of the device, turned with the handlebars&#8211;but Wolf refused to tell reporters what would happen if the two riders wished to go in different directions.</p>
@@ -165,15 +165,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2010/01/14/captainwolf/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/01/14/captainwolf/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Dead Man&#8217;s Chest</title>
-		<link>https://www.insroland.org/2009/12/09/deadmanschest/</link>
-					<comments>https://www.insroland.org/2009/12/09/deadmanschest/#respond</comments>
+		<link>/2009/12/09/deadmanschest/</link>
+					<comments>/2009/12/09/deadmanschest/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 09 Dec 2009 04:22:00 +0000</pubDate>
@@ -187,7 +187,7 @@
 		<category><![CDATA[mystery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Two weeks ago, the tearful relatives of Raymundo Reyes, 74, gathered at Calvary Cemetery for his burial. Not a week later, Reyes turned up, very much alive. Who then had died, this man who looked so much like Reyes that the whole family was fooled? No one had a clue until today, when Adam Kryst, &#8230; <a href="https://www.insroland.org/2009/12/09/deadmanschest/" class="more-link">Continue reading <span class="screen-reader-text">A Dead Man&#8217;s Chest</span></a>]]></description>
+					<description><![CDATA[Two weeks ago, the tearful relatives of Raymundo Reyes, 74, gathered at Calvary Cemetery for his burial. Not a week later, Reyes turned up, very much alive. Who then had died, this man who looked so much like Reyes that the whole family was fooled? No one had a clue until today, when Adam Kryst, &#8230; <a href="/2009/12/09/deadmanschest/" class="more-link">Continue reading <span class="screen-reader-text">A Dead Man&#8217;s Chest</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Two weeks ago, the tearful relatives of Raymundo Reyes, 74, gathered at Calvary Cemetery for his burial. Not a week later, Reyes turned up, very much alive.</p>
@@ -198,15 +198,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/12/09/deadmanschest/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/12/09/deadmanschest/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Anna&#8217;s Voices</title>
-		<link>https://www.insroland.org/2009/11/25/annasvoices/</link>
-					<comments>https://www.insroland.org/2009/11/25/annasvoices/#respond</comments>
+		<link>/2009/11/25/annasvoices/</link>
+					<comments>/2009/11/25/annasvoices/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 25 Nov 2009 01:40:03 +0000</pubDate>
@@ -218,7 +218,7 @@
 		<category><![CDATA[westminster hotel]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Pity Mrs. Anna Mulloy, who dabbled in the psychic sciences and discovered that the world of shadows and secrets is no place for a flesh and blood woman to linger. Anna first looked to the mysteries back home in Manitou, Colorado, where her husband M.E. was busy with his work as a contractor. She found &#8230; <a href="https://www.insroland.org/2009/11/25/annasvoices/" class="more-link">Continue reading <span class="screen-reader-text">Anna&#8217;s Voices</span></a>]]></description>
+					<description><![CDATA[Pity Mrs. Anna Mulloy, who dabbled in the psychic sciences and discovered that the world of shadows and secrets is no place for a flesh and blood woman to linger. Anna first looked to the mysteries back home in Manitou, Colorado, where her husband M.E. was busy with his work as a contractor. She found &#8230; <a href="/2009/11/25/annasvoices/" class="more-link">Continue reading <span class="screen-reader-text">Anna&#8217;s Voices</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Pity Mrs. Anna Mulloy, who dabbled in the psychic sciences and discovered that the world of shadows and secrets is no place for a flesh and blood woman to linger.</p>
@@ -228,15 +228,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/11/25/annasvoices/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/11/25/annasvoices/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Book collectors of old L.A.</title>
-		<link>https://www.insroland.org/2009/11/18/bookcollectors/</link>
-					<comments>https://www.insroland.org/2009/11/18/bookcollectors/#respond</comments>
+		<link>/2009/11/18/bookcollectors/</link>
+					<comments>/2009/11/18/bookcollectors/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 18 Nov 2009 16:52:10 +0000</pubDate>
@@ -249,7 +249,7 @@
 		<category><![CDATA[stabbing]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Shopkeeper William &#8220;Scotty&#8221; Manson, 47, lived alone behind Acme Stamp and Hobby, supplying used books and collectable stamps to the passing trade. Any customer was potentially a worthy one in the SRO Land of 1956, as Bunker Hill was crumbling and the detritus of human life washed ever further each morning onto the streets surrounding &#8230; <a href="https://www.insroland.org/2009/11/18/bookcollectors/" class="more-link">Continue reading <span class="screen-reader-text">Book collectors of old L.A.</span></a>]]></description>
+					<description><![CDATA[Shopkeeper William &#8220;Scotty&#8221; Manson, 47, lived alone behind Acme Stamp and Hobby, supplying used books and collectable stamps to the passing trade. Any customer was potentially a worthy one in the SRO Land of 1956, as Bunker Hill was crumbling and the detritus of human life washed ever further each morning onto the streets surrounding &#8230; <a href="/2009/11/18/bookcollectors/" class="more-link">Continue reading <span class="screen-reader-text">Book collectors of old L.A.</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Shopkeeper William &#8220;Scotty&#8221; Manson, 47, lived alone behind Acme Stamp and Hobby, supplying used books and collectable stamps to the passing trade. Any customer was potentially a worthy one in the SRO Land of 1956, as Bunker Hill was crumbling and the detritus of human life washed ever further each morning onto the streets surrounding Skid Row.</p>
@@ -261,15 +261,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/11/18/bookcollectors/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/11/18/bookcollectors/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>A Peddler Pelted</title>
-		<link>https://www.insroland.org/2009/11/12/peddler/</link>
-					<comments>https://www.insroland.org/2009/11/12/peddler/#comments</comments>
+		<link>/2009/11/12/peddler/</link>
+					<comments>/2009/11/12/peddler/#comments</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 12 Nov 2009 08:36:53 +0000</pubDate>
@@ -284,7 +284,7 @@
 		<category><![CDATA[vegetable]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Each day at noon, the little children emerge from their classroom at the San Pedro-street school and tramp off to their respective homes to have a nutritious lunch en famille. Dear little creatures, some barely old enough to walk, who spend their days in learning what life is all about, and the skills they&#8217;ll need &#8230; <a href="https://www.insroland.org/2009/11/12/peddler/" class="more-link">Continue reading <span class="screen-reader-text">A Peddler Pelted</span></a>]]></description>
+					<description><![CDATA[Each day at noon, the little children emerge from their classroom at the San Pedro-street school and tramp off to their respective homes to have a nutritious lunch en famille. Dear little creatures, some barely old enough to walk, who spend their days in learning what life is all about, and the skills they&#8217;ll need &#8230; <a href="/2009/11/12/peddler/" class="more-link">Continue reading <span class="screen-reader-text">A Peddler Pelted</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img src="https://farm3.static.flickr.com/2647/4097027815_42d4c507ca.jpg" alt="" /></p>
@@ -296,15 +296,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/11/12/peddler/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/11/12/peddler/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Death before dishonor</title>
-		<link>https://www.insroland.org/2009/10/20/harakiri/</link>
-					<comments>https://www.insroland.org/2009/10/20/harakiri/#respond</comments>
+		<link>/2009/10/20/harakiri/</link>
+					<comments>/2009/10/20/harakiri/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 20 Oct 2009 18:28:31 +0000</pubDate>
@@ -318,7 +318,7 @@
 		<category><![CDATA[suicide]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Although Japanese, and as such always an outsider to the Anglo culture of SRO land, G. Kurokaua was a respected longtime employee of the Ramona Saloon at 307 South Spring Street. But for all his years in the bar, he failed to tune his ear to the friendly jibes and japes that were the habit &#8230; <a href="https://www.insroland.org/2009/10/20/harakiri/" class="more-link">Continue reading <span class="screen-reader-text">Death before dishonor</span></a>]]></description>
+					<description><![CDATA[Although Japanese, and as such always an outsider to the Anglo culture of SRO land, G. Kurokaua was a respected longtime employee of the Ramona Saloon at 307 South Spring Street. But for all his years in the bar, he failed to tune his ear to the friendly jibes and japes that were the habit &#8230; <a href="/2009/10/20/harakiri/" class="more-link">Continue reading <span class="screen-reader-text">Death before dishonor</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Although Japanese, and as such always an outsider to the Anglo culture of SRO land, G. Kurokaua was a respected longtime employee of the Ramona Saloon at 307 South Spring Street. But for all his years in the bar, he failed to tune his ear to the friendly jibes and japes that were the habit of the place. Already crabby with an undiagnosed stomach ailment that pained him, the gentleman took grave offense when a patron, perhaps aware of Kurokaua&#8217;s remarkable thrift, joked that he had doubled his salary by raiding the till. Mortified, Kurokaua went to his employer, who laughed the remark off as the joke it was. But Kurokaua brooded. If his customers believed he was dishonorable, what was the point in living? His Japanese friends tried to appease him, it was just a case of an American being American, nothing worth taking to heart. It was no use. Several days after the slight, Kurokaua went to his rooms at 215 Boyd Street, readied his tanto knife with cloth around the outer side, plunged the blade into his belly and managed a cut of nearly a foot in length before losing consciousness. He then fell back upon his bed to die, a traditional Samurai honor suicide, <em>harakiri</em>, in downtown Los Angeles.</p>
@@ -326,15 +326,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/10/20/harakiri/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/10/20/harakiri/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Jake Will Cure Your Ache</title>
-		<link>https://www.insroland.org/2009/09/11/jake/</link>
-					<comments>https://www.insroland.org/2009/09/11/jake/#respond</comments>
+		<link>/2009/09/11/jake/</link>
+					<comments>/2009/09/11/jake/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Fri, 11 Sep 2009 06:48:14 +0000</pubDate>
@@ -347,7 +347,7 @@
 		<category><![CDATA[poisoning]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[When Mrs. Austin&#8217;s 13-year-old sister came to her complaining of cramps, big sis knew just what the doctor ordered: a healthy slug of Jamaica Ginger should make the pain, if not vanish, seem deliciously insignificant. The youngster was dosed, waited for relief, then complained anew. That&#8217;s when Mrs. Austin realized her mistake: the medicine she&#8217;d &#8230; <a href="https://www.insroland.org/2009/09/11/jake/" class="more-link">Continue reading <span class="screen-reader-text">Jake Will Cure Your Ache</span></a>]]></description>
+					<description><![CDATA[When Mrs. Austin&#8217;s 13-year-old sister came to her complaining of cramps, big sis knew just what the doctor ordered: a healthy slug of Jamaica Ginger should make the pain, if not vanish, seem deliciously insignificant. The youngster was dosed, waited for relief, then complained anew. That&#8217;s when Mrs. Austin realized her mistake: the medicine she&#8217;d &#8230; <a href="/2009/09/11/jake/" class="more-link">Continue reading <span class="screen-reader-text">Jake Will Cure Your Ache</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <div style="text-align: justify;">When Mrs. Austin&#8217;s 13-year-old sister came to her complaining of cramps, big sis knew just what the doctor ordered: a healthy slug of Jamaica Ginger should make the pain, if not vanish, seem deliciously insignificant. The youngster was dosed, waited for relief, then complained anew. That&#8217;s when Mrs. Austin realized her mistake: the medicine she&#8217;d proffered was not Jamaica Ginger, but Arnica!</div>
@@ -366,7 +366,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/09/11/jake/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/09/11/jake/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

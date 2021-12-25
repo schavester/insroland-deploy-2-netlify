@@ -12,8 +12,8 @@
 
 <channel>
 	<title>kidnapping &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/kidnapping-4/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/kidnapping-4/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:12:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>kidnapping &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Dead Man&#8217;s Chest</title>
-		<link>https://www.insroland.org/2009/12/09/deadmanschest/</link>
-					<comments>https://www.insroland.org/2009/12/09/deadmanschest/#respond</comments>
+		<link>/2009/12/09/deadmanschest/</link>
+					<comments>/2009/12/09/deadmanschest/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 09 Dec 2009 04:22:00 +0000</pubDate>
@@ -47,7 +47,7 @@
 		<category><![CDATA[mystery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Two weeks ago, the tearful relatives of Raymundo Reyes, 74, gathered at Calvary Cemetery for his burial. Not a week later, Reyes turned up, very much alive. Who then had died, this man who looked so much like Reyes that the whole family was fooled? No one had a clue until today, when Adam Kryst, &#8230; <a href="https://www.insroland.org/2009/12/09/deadmanschest/" class="more-link">Continue reading <span class="screen-reader-text">A Dead Man&#8217;s Chest</span></a>]]></description>
+					<description><![CDATA[Two weeks ago, the tearful relatives of Raymundo Reyes, 74, gathered at Calvary Cemetery for his burial. Not a week later, Reyes turned up, very much alive. Who then had died, this man who looked so much like Reyes that the whole family was fooled? No one had a clue until today, when Adam Kryst, &#8230; <a href="/2009/12/09/deadmanschest/" class="more-link">Continue reading <span class="screen-reader-text">A Dead Man&#8217;s Chest</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Two weeks ago, the tearful relatives of Raymundo Reyes, 74, gathered at Calvary Cemetery for his burial. Not a week later, Reyes turned up, very much alive.</p>
@@ -58,15 +58,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/12/09/deadmanschest/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/12/09/deadmanschest/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tarzan&#8217;s Dad at the Hickman Trial</title>
-		<link>https://www.insroland.org/2009/09/08/tarzansdad/</link>
-					<comments>https://www.insroland.org/2009/09/08/tarzansdad/#comments</comments>
+		<link>/2009/09/08/tarzansdad/</link>
+					<comments>/2009/09/08/tarzansdad/#comments</comments>
 		
 		<dc:creator><![CDATA[Rob Clampett]]></dc:creator>
 		<pubDate>Tue, 08 Sep 2009 02:49:13 +0000</pubDate>
@@ -84,7 +84,7 @@
 		<category><![CDATA[trial]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[In an era where a celebrity journalist like Dominick Dunne (1925-2009 R.I.P.) covered the sordid murder trials of O.J. Simpson, Robert Blake and Phil Spector it should be noted that this is not a new phenomenon.&#160; Hickman Court Hearing: William Edward Hickman sans necktie at his court hearing. Immediately to Hickman&#8217;s right is longtime Sheriff &#8230; <a href="https://www.insroland.org/2009/09/08/tarzansdad/" class="more-link">Continue reading <span class="screen-reader-text">Tarzan&#8217;s Dad at the Hickman Trial</span></a>]]></description>
+					<description><![CDATA[In an era where a celebrity journalist like Dominick Dunne (1925-2009 R.I.P.) covered the sordid murder trials of O.J. Simpson, Robert Blake and Phil Spector it should be noted that this is not a new phenomenon.&#160; Hickman Court Hearing: William Edward Hickman sans necktie at his court hearing. Immediately to Hickman&#8217;s right is longtime Sheriff &#8230; <a href="/2009/09/08/tarzansdad/" class="more-link">Continue reading <span class="screen-reader-text">Tarzan&#8217;s Dad at the Hickman Trial</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>In an era where a celebrity journalist like Dominick Dunne (1925-2009 R.I.P.) covered the sordid murder trials of O.J. Simpson, Robert Blake and Phil Spector it should be noted that this is not a new phenomenon.<span>&nbsp; </span></p>
@@ -112,15 +112,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/09/08/tarzansdad/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/09/08/tarzansdad/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Rescued from the Clutches of a Superhuman Diagnostician</title>
-		<link>https://www.insroland.org/2009/06/27/charlatan/</link>
-					<comments>https://www.insroland.org/2009/06/27/charlatan/#respond</comments>
+		<link>/2009/06/27/charlatan/</link>
+					<comments>/2009/06/27/charlatan/#respond</comments>
 		
 		<dc:creator><![CDATA[Barbara Bogaev]]></dc:creator>
 		<pubDate>Sat, 27 Jun 2009 01:18:23 +0000</pubDate>
@@ -129,17 +129,17 @@
 		<category><![CDATA[location tag]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[When your mother goes missing, where would you look first? Why, the home of the nearest hypnotist, of course! That was Mrs. Edna Lehmanâ€™s (nee Larkin) first impulse, and she enlisted the help of LAâ€™s finest in her investigation. One evening in June, 1899, Mrs. Lehman and her husband, a 4th street fishmonger, accompanied Officer &#8230; <a href="https://www.insroland.org/2009/06/27/charlatan/" class="more-link">Continue reading <span class="screen-reader-text">Rescued from the Clutches of a Superhuman Diagnostician</span></a>]]></description>
+					<description><![CDATA[When your mother goes missing, where would you look first? Why, the home of the nearest hypnotist, of course! That was Mrs. Edna Lehmanâ€™s (nee Larkin) first impulse, and she enlisted the help of LAâ€™s finest in her investigation. One evening in June, 1899, Mrs. Lehman and her husband, a 4th street fishmonger, accompanied Officer &#8230; <a href="/2009/06/27/charlatan/" class="more-link">Continue reading <span class="screen-reader-text">Rescued from the Clutches of a Superhuman Diagnostician</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
-<div>When your mother goes missing, where would you look first?  Why, the home of the nearest hypnotist, of course!  That was Mrs. Edna Lehmanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s (nee Larkin) first impulse, and she enlisted the help of LAâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s finest in her investigation.  One evening in June, 1899, Mrs. Lehman and her husband, a 4th street fishmonger, accompanied Officer Bert Smith to room 33 at the Leone Lodging House at 144 South Main, home to one â€œDr.â€ Frank N. Martin. But when the good doctor emerged with his patient, Ednaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s mother, both seemed equally indignant at the disturbance to their privacy. Mrs. Larkin, perhaps still suffering from the effects of hypnosis, seemed unsure at first whether she would depart with her daughter. She then claimed that â€œDr.â€ Martin had sworn, â€œhe would kill them all.â€ Frank Martin denied all â€œman-killing proclivitiesâ€ and stated that he and Mrs. Larkin had merely been transacting business. Eventually Officer Smith persuaded Mrs. Larkin to go home with her daughter and son-in-law.  </p>
+<div>When your mother goes missing, where would you look first?  Why, the home of the nearest hypnotist, of course!  That was Mrs. Edna Lehmanâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s (nee Larkin) first impulse, and she enlisted the help of LAâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s finest in her investigation.  One evening in June, 1899, Mrs. Lehman and her husband, a 4th street fishmonger, accompanied Officer Bert Smith to room 33 at the Leone Lodging House at 144 South Main, home to one â€œDr.â€ Frank N. Martin. But when the good doctor emerged with his patient, Ednaâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s mother, both seemed equally indignant at the disturbance to their privacy. Mrs. Larkin, perhaps still suffering from the effects of hypnosis, seemed unsure at first whether she would depart with her daughter. She then claimed that â€œDr.â€ Martin had sworn, â€œhe would kill them all.â€ Frank Martin denied all â€œman-killing proclivitiesâ€ and stated that he and Mrs. Larkin had merely been transacting business. Eventually Officer Smith persuaded Mrs. Larkin to go home with her daughter and son-in-law.  </p>
 <p>After they left, Frank Martin presented Officer Smith with his card, as proof of his legitimate standing in the business community. It read as follows: â€œFrank N. Martin Diagnostician of Diseases by Superhuman Power.  Can ascertain, locate and describe the disease of any patient without asking a question or even seeing the patient.â€</p>
-<p>Besides possessing power of superhuman dimensions, Frank Martin also possessed power of attorney signed by Mrs. Larkin, authorizing him to dispose of certain real estate in her name.  And here the trail of Mrs. Larkin and â€œDr.â€ Martin takes a decidedly racy turn.  As it happens, Mrs. Larkin had come into property in South Pasadena after her husband abandoned her and her daughter.  In order to stretch their income, Mrs. Larkin took in boarders at the South Pasadena residence, one of whom was  Frank Martin.  The couple engaged in intimacies of a closer nature than the usual landlady/tenant variety, relations Mrs. Larkinâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s daughter referred to as hypnotism.  In time, Mrs. Larkin became so impressed with Martinâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s medical acumen that she planned to sell off part of her country estate and use the proceeds to go into partnership with him selling patent medicines.   For this reason she granted Martin power of attorney, and visited him in his room on Main street.  That she brought her combs and toiletries with her on her visit can only be attributed to the complex nature of their business dealings, which she anticipated would require her to spend the night downtown.</p>
+<p>Besides possessing power of superhuman dimensions, Frank Martin also possessed power of attorney signed by Mrs. Larkin, authorizing him to dispose of certain real estate in her name.  And here the trail of Mrs. Larkin and â€œDr.â€ Martin takes a decidedly racy turn.  As it happens, Mrs. Larkin had come into property in South Pasadena after her husband abandoned her and her daughter.  In order to stretch their income, Mrs. Larkin took in boarders at the South Pasadena residence, one of whom was  Frank Martin.  The couple engaged in intimacies of a closer nature than the usual landlady/tenant variety, relations Mrs. Larkinâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s daughter referred to as hypnotism.  In time, Mrs. Larkin became so impressed with Martinâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s medical acumen that she planned to sell off part of her country estate and use the proceeds to go into partnership with him selling patent medicines.   For this reason she granted Martin power of attorney, and visited him in his room on Main street.  That she brought her combs and toiletries with her on her visit can only be attributed to the complex nature of their business dealings, which she anticipated would require her to spend the night downtown.</p>
 <p>Under pressure from her daughter, Mrs. Larkin revoked the power of attorney, but since Martin had already sold the property, it was unlikely she was able to prevent him from banking the profits. Profits he undoubtedly used to further the pursuit of long distance diagnostics.
 </p></div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/06/27/charlatan/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/06/27/charlatan/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

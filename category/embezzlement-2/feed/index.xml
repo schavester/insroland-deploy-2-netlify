@@ -12,8 +12,8 @@
 
 <channel>
 	<title>embezzlement &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/embezzlement-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/embezzlement-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:12:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>embezzlement &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Spring Street&#8217;s Monte Carlo</title>
-		<link>https://www.insroland.org/2009/06/24/eldorado/</link>
-					<comments>https://www.insroland.org/2009/06/24/eldorado/#comments</comments>
+		<link>/2009/06/24/eldorado/</link>
+					<comments>/2009/06/24/eldorado/#comments</comments>
 		
 		<dc:creator><![CDATA[John Buntin]]></dc:creator>
 		<pubDate>Wed, 24 Jun 2009 11:20:13 +0000</pubDate>
@@ -48,7 +48,7 @@
 		<category><![CDATA[racketeering]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[What was SROland&#8217;s grandest gaming establishment? Milton &#8220;Farmer&#8221; Page&#8217;s El Dorado Club. &#8220;Farmer&#8221; Page was an unlikely gambling kingpin. His nickname came from &#8220;his shambling gait and ill-fitting clothes.&#8221; He dropped out of school at age 12. But Page was an enterprising fellow. As a newsboy, he secured the lucrative corner of Second and Spring &#8230; <a href="https://www.insroland.org/2009/06/24/eldorado/" class="more-link">Continue reading <span class="screen-reader-text">Spring Street&#8217;s Monte Carlo</span></a>]]></description>
+					<description><![CDATA[What was SROland&#8217;s grandest gaming establishment? Milton &#8220;Farmer&#8221; Page&#8217;s El Dorado Club. &#8220;Farmer&#8221; Page was an unlikely gambling kingpin. His nickname came from &#8220;his shambling gait and ill-fitting clothes.&#8221; He dropped out of school at age 12. But Page was an enterprising fellow. As a newsboy, he secured the lucrative corner of Second and Spring &#8230; <a href="/2009/06/24/eldorado/" class="more-link">Continue reading <span class="screen-reader-text">Spring Street&#8217;s Monte Carlo</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>What was SROland&#8217;s grandest gaming establishment? Milton &#8220;Farmer&#8221; Page&#8217;s El Dorado Club.  &#8220;Farmer&#8221; Page was an unlikely gambling kingpin. His nickname came from &#8220;his shambling gait and ill-fitting clothes.&#8221; He dropped out of school at age 12. But Page was an enterprising fellow. As a newsboy, he secured the lucrative corner of Second and Spring Streets. There he developed a feel for the dice. Younger brother Stanley, a famous jockey, got &#8220;Farmer&#8221; off the street and made him his personal valet, but Page just took his dice and card games to the tracks. In 1917, he moved back to Los Angeles and opened a game in the basement of the old Del Monte bar on West Third Street. He soon gained a reputation as an &#8220;honest gambler.&#8221; By 1918, he had five gambling clubs. He was now ready for the big-time â€” the El Dorado Club.   Occupying the entire top floor of a Spring Street office building, the El Dorado had a great run, hosting hundreds of devotees of poker, black jack, and dice games. Crowds of 500 or 600 people a night were common. When the police felt obliged to raid the aforementioned establishment, 15-20 &#8220;house men&#8221; would step forward to be arrested. Page would later bail them out of Central Police Station. Three months was a typical run, after which time Page would let the police shut things down and then move to another location.</p>
@@ -58,7 +58,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/06/24/eldorado/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/06/24/eldorado/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

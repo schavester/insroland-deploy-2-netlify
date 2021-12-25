@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="https://www.georss.org/georss"
+	xmlns:geo="https://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>urm &#8211; InSROland</title>
+	<atom:link href="/tag/urm/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>lost lore of the historic core</description>
+	<lastBuildDate>Sun, 26 Sep 2021 16:37:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<title>urm &#8211; InSROland</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>American Gothic on Skid Row</title>
+		<link>/2012/12/20/american-gothic-on-skid-row/</link>
+					<comments>/2012/12/20/american-gothic-on-skid-row/#respond</comments>
+		
+		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
+		<pubDate>Thu, 20 Dec 2012 16:35:00 +0000</pubDate>
+				<category><![CDATA[location tag]]></category>
+		<category><![CDATA[urm]]></category>
+		<guid isPermaLink="false">/?p=737</guid>
+
+					<description><![CDATA[In decades past, it was a common dig at the middle-brow culture of Los Angeles to snipe that the town was chock full of Iowans&#8211;dishwater dull, prudish and constantly picnicking. It&#8217;s true enough that many a midwestern retiree was convinced by California&#8217;s &#8220;land of sunshine&#8221; reputation to spend their last years here. But you might &#8230; <a href="/2012/12/20/american-gothic-on-skid-row/" class="more-link">Continue reading <span class="screen-reader-text">American Gothic on Skid Row</span></a>]]></description>
+										<content:encoded><![CDATA[<p>In decades past, it was a common dig at the middle-brow culture of Los Angeles to snipe that the town was chock full of Iowans&#8211;dishwater dull, prudish and constantly <a href="https://historylosangeles.blogspot.com/2010/08/iowa-picnics-long-beach-and-elsewhere.html" target="_blank" rel="noopener">picnicking</a>.</p>
+<p>It&#8217;s true enough that many a midwestern retiree was convinced by California&#8217;s &#8220;land of sunshine&#8221; reputation to spend their last years here. But you might not know that there&#8217;s a very special connection that exists between rural Iowa and L.A.&#8217;s Skid Row&#8211;a bond that&#8217;s put food into hungry mouths for more than two decades.&nbsp;</p>
+<p><a href="https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6087632" target="_blank" rel="noopener">Nan Wood Graham</a>, the sister of painter Grant Wood, was the tight-lipped female subject of his 1930 painting <em>American Gothic</em>. The <a href="https://www.wapellocounty.org/americangothic/" target="_blank" rel="noopener">house</a> behind her still stands in tiny <a href="https:www.city-data.com/city/Eldon-Iowa.html" target="_blank" rel="noopener">Eldon, Iowa</a>.&nbsp;</p>
+<p>And since Nan&#8217;s death, every licensing fee for reproduction of her brother&#8217;s masterpiece has been split between the <a href="https://www.urm.org/" target="_blank" rel="noopener">Union Rescue Mission</a>&nbsp;and the <a href="https://www.alternativestodv.org/" target="_blank" rel="noopener">Riverside County Coalition for Alternatives to Domestic Violence</a>.&nbsp;Our friends at the URM tell us that this income is not inconsiderable.&nbsp;</p>
+<p>So think of Nan&#8217;s kindness next time you see <em>American Gothic</em>&nbsp;reproduced or parodied. We surely will.</p>
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="278" height="320" src="/wp-content/uploads/2021/09/american-gothic.jpeg" alt="" class="wp-image-738" srcset="/wp-content/uploads/2021/09/american-gothic.jpeg 278w, /wp-content/uploads/2021/09/american-gothic-261x300.jpeg 261w" sizes="(max-width: 278px) 100vw, 278px" /></figure></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2012/12/20/american-gothic-on-skid-row/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

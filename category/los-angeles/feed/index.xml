@@ -12,8 +12,8 @@
 
 <channel>
 	<title>los angeles &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/los-angeles/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/los-angeles/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 00:59:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>los angeles &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Grave Embarrassment in the Alexandria Hotel</title>
-		<link>https://www.insroland.org/2011/07/19/alexandriapink/</link>
-					<comments>https://www.insroland.org/2011/07/19/alexandriapink/#respond</comments>
+		<link>/2011/07/19/alexandriapink/</link>
+					<comments>/2011/07/19/alexandriapink/#respond</comments>
 		
 		<dc:creator><![CDATA[Nathan Marsak]]></dc:creator>
 		<pubDate>Tue, 19 Jul 2011 22:29:09 +0000</pubDate>
@@ -45,7 +45,7 @@
 		<category><![CDATA[social mores]]></category>
 		<guid isPermaLink="false">https://www.insrolanmigrate.richardschave.com/2011/07/19/alexandriapink/</guid>
 
-					<description><![CDATA[Tongues were wagging on every floor of the Alexandria Hotel this morning, following the delicious faux pas of conservative businessman Walter Dinmore, a resident of San Francisco and Los Angeles. Roused by his &#8220;Jap&#8221; valet to take an important long distance telephone call from Santa Barbara in the lobby, the tousled Dinmore hurried from his &#8230; <a href="https://www.insroland.org/2011/07/19/alexandriapink/" class="more-link">Continue reading <span class="screen-reader-text">Grave Embarrassment in the Alexandria Hotel</span></a>]]></description>
+					<description><![CDATA[Tongues were wagging on every floor of the Alexandria Hotel this morning, following the delicious faux pas of conservative businessman Walter Dinmore, a resident of San Francisco and Los Angeles. Roused by his &#8220;Jap&#8221; valet to take an important long distance telephone call from Santa Barbara in the lobby, the tousled Dinmore hurried from his &#8230; <a href="/2011/07/19/alexandriapink/" class="more-link">Continue reading <span class="screen-reader-text">Grave Embarrassment in the Alexandria Hotel</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" src="https://static.flickr.com/36/112970262_9bd30408e4_m.jpg" alt="" width="157" height="240" align="left" border="5" />Tongues were wagging on every floor of the <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;q=W+5th+St+%26+S+Spring+St,+Los+Angeles,+CA+90013&amp;ll=34.047472,-118.24961&amp;spn=0.030651,0.08008" target="_blank">Alexandria Hotel</a> this morning, following the delicious <em>faux pas</em> of conservative businessman Walter Dinmore, a resident of San Francisco and Los Angeles. Roused by his &#8220;Jap&#8221; valet to take an important long distance telephone call from Santa Barbara in the lobby, the tousled Dinmore hurried from his room, only to encounter barely supressed merriment at every turn.</p>
@@ -58,7 +58,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2011/07/19/alexandriapink/feed/</wfw:commentRss>
+					<wfw:commentRss>/2011/07/19/alexandriapink/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

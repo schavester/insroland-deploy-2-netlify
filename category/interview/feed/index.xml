@@ -12,8 +12,8 @@
 
 <channel>
 	<title>interview &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/interview/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/interview/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:02:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>interview &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Interview with a Murderess</title>
-		<link>https://www.insroland.org/2010/03/02/murderess/</link>
-					<comments>https://www.insroland.org/2010/03/02/murderess/#comments</comments>
+		<link>/2010/03/02/murderess/</link>
+					<comments>/2010/03/02/murderess/#comments</comments>
 		
 		<dc:creator><![CDATA[Diarmid Mogg]]></dc:creator>
 		<pubDate>Tue, 02 Mar 2010 22:46:17 +0000</pubDate>
@@ -48,16 +48,16 @@
 		<category><![CDATA[wife]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Aurellia Scheck, a 19-year-old laundry girl, loved Ernest Stackpole, a handsome, well-off young man, ten years her senior, who had come to Los Angeles from out east and rented a room in her motherâ€™s boarding house. Together, she and Ernest plotted to murder Aurelliaâ€™s husband Joel, a plumber, so that they could collect the $500 &#8230; <a href="https://www.insroland.org/2010/03/02/murderess/" class="more-link">Continue reading <span class="screen-reader-text">Interview with a Murderess</span></a>]]></description>
+					<description><![CDATA[Aurellia Scheck, a 19-year-old laundry girl, loved Ernest Stackpole, a handsome, well-off young man, ten years her senior, who had come to Los Angeles from out east and rented a room in her motherâ€™s boarding house. Together, she and Ernest plotted to murder Aurelliaâ€™s husband Joel, a plumber, so that they could collect the $500 &#8230; <a href="/2010/03/02/murderess/" class="more-link">Continue reading <span class="screen-reader-text">Interview with a Murderess</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><span style="font-family: 'Lucida Grande', sans-serif; color: #000000; font-size: small;"><span style="font-size: 11px; line-height: normal; white-space: pre;"><img loading="lazy" src="https://farm5.static.flickr.com/4034/4398794296_4ae6c8d7b2.jpg" alt="" width="368" height="500" /><br /></span></span></p>
-<p>Aurellia Scheck, a 19-year-old laundry girl, loved Ernest Stackpole, a handsome, well-off young man, ten years her senior, who had come to Los Angeles from out east and rented a room in her motherâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s boarding house. Together, she and Ernest plotted to murder Aurelliaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s husband Joel, a plumber, so that they could collect the $500 for which his life was insured.</p>
+<p>Aurellia Scheck, a 19-year-old laundry girl, loved Ernest Stackpole, a handsome, well-off young man, ten years her senior, who had come to Los Angeles from out east and rented a room in her motherâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s boarding house. Together, she and Ernest plotted to murder Aurelliaâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s husband Joel, a plumber, so that they could collect the $500 for which his life was insured.</p>
 <p>On June 14, 1906, Aurellia let Stackpole into the bedroom at the rear of 524 San Julian street where Joel lay sleeping, and Stackpole shot Joel â€“ once in the heart and once straight through his forehead.&nbsp;</p>
-<p>Aurellia claimed that two burglars had fired their pistols when Joel woke up and surprised them. The police didnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t believe her, not least because armed burglars were rare in the San Julian street area in those days, there being little worth stealing in any of the dilapidated houses.</p>
-<p>The lovers were arrested and Aurellia soon cracked under interrogation, turning state&#8217;s witness in exchange for immunity from prosecution. After a trial that occupied the front pages of the cityâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s newspapers that summer, Stackpole was sentenced to life imprisonment, and Aurellia was remanded in custody on a charge of perjury, which never came to trial but which kept her locked up for three months.&nbsp;</p>
+<p>Aurellia claimed that two burglars had fired their pistols when Joel woke up and surprised them. The police didnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t believe her, not least because armed burglars were rare in the San Julian street area in those days, there being little worth stealing in any of the dilapidated houses.</p>
+<p>The lovers were arrested and Aurellia soon cracked under interrogation, turning state&#8217;s witness in exchange for immunity from prosecution. After a trial that occupied the front pages of the cityâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s newspapers that summer, Stackpole was sentenced to life imprisonment, and Aurellia was remanded in custody on a charge of perjury, which never came to trial but which kept her locked up for three months.&nbsp;</p>
 <p>Shortly before her release from the city jail, a Los Angeles Herald reporter secured the only interview that she ever gave the press, in which she spoke about her awful life and how she had become involved in murder.&nbsp;</p>
-<p>Understandably, the interview differs to a large degree from her testimony in court. In order to condemn Stackpole, she had had to damn herself, too, by describing in detail the murder plot and her part in it. Speaking to the Heraldâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s reporter, she naturally tried to distance herself from the crime. Also, although the article claims to report Aurelliaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s actual words, they were obviously prettied up by the journalist, as they lapse occasionally into the purplish and melodramatic language that was a mark of the paperâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s feature pages.&nbsp;</p>
+<p>Understandably, the interview differs to a large degree from her testimony in court. In order to condemn Stackpole, she had had to damn herself, too, by describing in detail the murder plot and her part in it. Speaking to the Heraldâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s reporter, she naturally tried to distance herself from the crime. Also, although the article claims to report Aurelliaâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s actual words, they were obviously prettied up by the journalist, as they lapse occasionally into the purplish and melodramatic language that was a mark of the paperâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s feature pages.&nbsp;</p>
 <p>Still, her story is worth reading, not only for the insight into the mind of a woman who got away with murder but for the glimpse of a life that, in its early particulars, is probably similar to the lives of many of those who drifted west in the early 20th century, heading for the bright lights and dark streets of SRO land.&nbsp;</p>
 <p>&#8220;It won&#8217;t take long to tell all I know about myself,â€ Aurelia said. â€œI haven&#8217;t been on earth very long, and while things have happened rather rapidly in my life this last trouble has so far overshadowed them all that I can think of nothing else.</p>
 <p>&#8220;I was born in lowa not quite twenty years ago. My mother and father separated two years after my birth, and after that I travelled about with my mother and sister.</p>
@@ -84,7 +84,7 @@
 <p>&#8220;Stackpole offered me all the things I had never enjoyed. He spent money lavishly. He took us places, and for the first time In my life. I had a chance to see pretty plays and enjoy the beaches.</p>
 <p>â€œThe evenings were awfully lonesome until he came, and then it was my downfall.</p>
 <p>&#8220;I thought my husband was unkind to me, and the easy, polished ways of Stackpole appealed to me. A woman sometimes forgets the right for the easy downward path.</p>
-<p>&#8220;It was a sorry day for me that I accepted Stackpoleâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s invitation to go to an afternoon matinee, for we later went to a cafe. There he made a drink for me, and when I had swallowed the stuff I didn&#8217;t know what had happened to me. My mind was a blank. When I came to my senses I was in a room with him.</p>
+<p>&#8220;It was a sorry day for me that I accepted Stackpoleâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s invitation to go to an afternoon matinee, for we later went to a cafe. There he made a drink for me, and when I had swallowed the stuff I didn&#8217;t know what had happened to me. My mind was a blank. When I came to my senses I was in a room with him.</p>
 <p>&#8220;Then he had me, and he knew it. When he went away he wrote five times to me before I answered, and then he began to talk of the killing. I did not appreciate what it meant until he had written many times. I dared not tell my husband, for I feared Stackpole. He told me that if I told he would kill us all.</p>
 <p>&#8220;To protect my husband I dared say nothing. When he returned he told me to come to him or the killing would begin at once.</p>
 <p>â€œWhat could I do? I went to him and was his slave again. I did as he said. I drank the drugs he gave me and did not know what I was doing. I threatened to tell the police, and he said that if I did it would only precipitate the murder, for he would kill us all. On the night of the killing he told me that he would kill us all if we dared to say anything against him.</p>
@@ -101,12 +101,12 @@
 <p><span style="font-family: 'Lucida Grande', sans-serif; color: #000000; font-size: small;"><span style="font-size: 11px; line-height: normal; white-space: pre;"><img loading="lazy" src="https://farm5.static.flickr.com/4062/4398030637_4e0bde59bd_o.jpg" alt="" width="280" height="442" /><span style="font-family: Verdana, sans-serif; font-size: 12px; white-space: normal; color: #494949; line-height: 20px;"><span style="color: #000000; font-family: 'Lucida Grande', sans-serif; font-size: 11px; line-height: normal; white-space: pre;"> </span></span></span></span></p>
 <p>At the time of Aurellia&#8217;s release, Ernest Stackpole was just beginning his life sentence in San Quentin. He was violent enough to quickly establish himself as a jailhouse bully, but he occupied this station for only a few months until he received a humiliating beating from a four-foot-high Puerto Rican dwarf who had been imprisoned on a charge of statutory rape.&nbsp;</p>
 <p>He was paroled in 1927, after serving 21 years â€“ he was in his 50s, and seemed â€œquite an old manâ€, according to the warden. He immediately resumed his career of crime and was captured the following year after being shot in the leg during a hold-up in Sacramento. He spent the rest of his life in jail.&nbsp;</p>
-<p><em>Sources: Los Angeles Herald, Sep 16, 1906 (the main interview and picture of Aurellia). The case was reported on frequently in the same paper from June 15 to August 31, 1906. Los Angeles Herald Sep 28, 1906 (the dwarf story); and the Oakland Tribune, June 17, 1924 and May 14, 1928&nbsp;(the details of Stackpoleâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s later life).&nbsp;</em></p>
+<p><em>Sources: Los Angeles Herald, Sep 16, 1906 (the main interview and picture of Aurellia). The case was reported on frequently in the same paper from June 15 to August 31, 1906. Los Angeles Herald Sep 28, 1906 (the dwarf story); and the Oakland Tribune, June 17, 1924 and May 14, 1928&nbsp;(the details of Stackpoleâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s later life).&nbsp;</em></p>
 </div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2010/03/02/murderess/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/03/02/murderess/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

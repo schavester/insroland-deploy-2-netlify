@@ -12,8 +12,8 @@
 
 <channel>
 	<title>vietnam &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/vietnam/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/vietnam/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:03:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>vietnam &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Flames of Peace</title>
-		<link>https://www.insroland.org/2010/01/20/florencebeaumont/</link>
-					<comments>https://www.insroland.org/2010/01/20/florencebeaumont/#respond</comments>
+		<link>/2010/01/20/florencebeaumont/</link>
+					<comments>/2010/01/20/florencebeaumont/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 20 Jan 2010 05:09:50 +0000</pubDate>
@@ -45,7 +45,7 @@
 		<category><![CDATA[war]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[October 15, 1967 Late on Sunday morning, Florence Beaumont, 56-year-old former English teacher, Unitarian peace activist and mother of two, gathered a selection of literature pertaining to her activities in the anti-Vietnam war movement, climbed into her pickup truck with its Peace and Freedom Party bumper sticker and drove from her home in La Puente &#8230; <a href="https://www.insroland.org/2010/01/20/florencebeaumont/" class="more-link">Continue reading <span class="screen-reader-text">Flames of Peace</span></a>]]></description>
+					<description><![CDATA[October 15, 1967 Late on Sunday morning, Florence Beaumont, 56-year-old former English teacher, Unitarian peace activist and mother of two, gathered a selection of literature pertaining to her activities in the anti-Vietnam war movement, climbed into her pickup truck with its Peace and Freedom Party bumper sticker and drove from her home in La Puente &#8230; <a href="/2010/01/20/florencebeaumont/" class="more-link">Continue reading <span class="screen-reader-text">Flames of Peace</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img src="https://farm5.static.flickr.com/4048/4289897620_f4fdcbfa32_o.png" alt="" /></p>
@@ -60,7 +60,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2010/01/20/florencebeaumont/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/01/20/florencebeaumont/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

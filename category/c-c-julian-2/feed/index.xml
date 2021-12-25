@@ -12,8 +12,8 @@
 
 <channel>
 	<title>C.C. Julian &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/c-c-julian-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/c-c-julian-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:12:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>C.C. Julian &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Julian Pete, Loew&#8217;s State, and &#8220;the Decade of Debauchery&#8221;</title>
-		<link>https://www.insroland.org/2009/08/03/ccjulianfraud/</link>
-					<comments>https://www.insroland.org/2009/08/03/ccjulianfraud/#respond</comments>
+		<link>/2009/08/03/ccjulianfraud/</link>
+					<comments>/2009/08/03/ccjulianfraud/#respond</comments>
 		
 		<dc:creator><![CDATA[John Buntin]]></dc:creator>
 		<pubDate>Mon, 03 Aug 2009 13:55:50 +0000</pubDate>
@@ -44,7 +44,7 @@
 		<category><![CDATA[Loew's State]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[C.C. Julian was the Bernie Madoff of 1920s Los Angeles, a charming Canadian con man who hit oil in 1923 and then discovered something even more lucrative, over-selling shares in oil syndicates to oil-crazed Angelenos. At its height, Julian&#8217;s &#8220;Million Dollar Pool&#8221; attracted investors from Louis B. Mayer to H.M. Haldeman (father to Wategrate&#8217;s H.R.) &#8230; <a href="https://www.insroland.org/2009/08/03/ccjulianfraud/" class="more-link">Continue reading <span class="screen-reader-text">Julian Pete, Loew&#8217;s State, and &#8220;the Decade of Debauchery&#8221;</span></a>]]></description>
+					<description><![CDATA[C.C. Julian was the Bernie Madoff of 1920s Los Angeles, a charming Canadian con man who hit oil in 1923 and then discovered something even more lucrative, over-selling shares in oil syndicates to oil-crazed Angelenos. At its height, Julian&#8217;s &#8220;Million Dollar Pool&#8221; attracted investors from Louis B. Mayer to H.M. Haldeman (father to Wategrate&#8217;s H.R.) &#8230; <a href="/2009/08/03/ccjulianfraud/" class="more-link">Continue reading <span class="screen-reader-text">Julian Pete, Loew&#8217;s State, and &#8220;the Decade of Debauchery&#8221;</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><a title="CC julian by jbbuntin, on Flickr" href="https://www.flickr.com/photos/buntin/3785168170/"><img loading="lazy" src="https://farm3.static.flickr.com/2489/3785168170_0d5dda2476.jpg" alt="CC julian" width="239" height="500" align="left" /></a>C.C. Julian was the Bernie Madoff of 1920s Los Angeles, a charming Canadian con man who hit oil in 1923 and then discovered something even more lucrative, over-selling shares in oil syndicates to oil-crazed Angelenos. At its height, Julian&#8217;s &#8220;Million Dollar Pool&#8221; attracted investors from Louis B. Mayer to H.M. Haldeman (father to Wategrate&#8217;s H.R.) And from where did Julian and his trickster associate Jacob Berman run this scheme? Why take a look!</p>
@@ -53,7 +53,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/08/03/ccjulianfraud/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/08/03/ccjulianfraud/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>mystic &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/mystic/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/mystic/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:01:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>mystic &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>&#8220;Professor&#8221; Alexander J. McIvor-Tyndall rides again!</title>
-		<link>https://www.insroland.org/2009/11/03/professor-alexander-j-mcivor-tyndall-rides-again/</link>
-					<comments>https://www.insroland.org/2009/11/03/professor-alexander-j-mcivor-tyndall-rides-again/#comments</comments>
+		<link>/2009/11/03/professor-alexander-j-mcivor-tyndall-rides-again/</link>
+					<comments>/2009/11/03/professor-alexander-j-mcivor-tyndall-rides-again/#comments</comments>
 		
 		<dc:creator><![CDATA[Barbara Bogaev]]></dc:creator>
 		<pubDate>Tue, 03 Nov 2009 16:17:22 +0000</pubDate>
@@ -47,7 +47,7 @@
 		<category><![CDATA[showman]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Peter LaFleur managed to win a championship blindfolded in the film &#8220;Dodgeball,&#8221; so how hard could it possibly be to drive a horse-drawn carriage at a breakneck pace through the streets of downtown Los Angeles while likewise deprived of sight? That was the challenge mind-reader, mystic and clairvoyant Professor J. McIvor Tyndall faced on November &#8230; <a href="https://www.insroland.org/2009/11/03/professor-alexander-j-mcivor-tyndall-rides-again/" class="more-link">Continue reading <span class="screen-reader-text">&#8220;Professor&#8221; Alexander J. McIvor-Tyndall rides again!</span></a>]]></description>
+					<description><![CDATA[Peter LaFleur managed to win a championship blindfolded in the film &#8220;Dodgeball,&#8221; so how hard could it possibly be to drive a horse-drawn carriage at a breakneck pace through the streets of downtown Los Angeles while likewise deprived of sight? That was the challenge mind-reader, mystic and clairvoyant Professor J. McIvor Tyndall faced on November &#8230; <a href="/2009/11/03/professor-alexander-j-mcivor-tyndall-rides-again/" class="more-link">Continue reading <span class="screen-reader-text">&#8220;Professor&#8221; Alexander J. McIvor-Tyndall rides again!</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img loading="lazy" src="https://farm3.static.flickr.com/2797/4071447874_6c5e60184f_o.jpg" alt="" width="379" height="599" /></p>
@@ -59,7 +59,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/11/03/professor-alexander-j-mcivor-tyndall-rides-again/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/11/03/professor-alexander-j-mcivor-tyndall-rides-again/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

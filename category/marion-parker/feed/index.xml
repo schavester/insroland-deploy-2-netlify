@@ -12,8 +12,8 @@
 
 <channel>
 	<title>marion parker &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/marion-parker/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/marion-parker/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:12:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>marion parker &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Tarzan&#8217;s Dad at the Hickman Trial</title>
-		<link>https://www.insroland.org/2009/09/08/tarzansdad/</link>
-					<comments>https://www.insroland.org/2009/09/08/tarzansdad/#comments</comments>
+		<link>/2009/09/08/tarzansdad/</link>
+					<comments>/2009/09/08/tarzansdad/#comments</comments>
 		
 		<dc:creator><![CDATA[Rob Clampett]]></dc:creator>
 		<pubDate>Tue, 08 Sep 2009 02:49:13 +0000</pubDate>
@@ -51,7 +51,7 @@
 		<category><![CDATA[trial]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[In an era where a celebrity journalist like Dominick Dunne (1925-2009 R.I.P.) covered the sordid murder trials of O.J. Simpson, Robert Blake and Phil Spector it should be noted that this is not a new phenomenon.&#160; Hickman Court Hearing: William Edward Hickman sans necktie at his court hearing. Immediately to Hickman&#8217;s right is longtime Sheriff &#8230; <a href="https://www.insroland.org/2009/09/08/tarzansdad/" class="more-link">Continue reading <span class="screen-reader-text">Tarzan&#8217;s Dad at the Hickman Trial</span></a>]]></description>
+					<description><![CDATA[In an era where a celebrity journalist like Dominick Dunne (1925-2009 R.I.P.) covered the sordid murder trials of O.J. Simpson, Robert Blake and Phil Spector it should be noted that this is not a new phenomenon.&#160; Hickman Court Hearing: William Edward Hickman sans necktie at his court hearing. Immediately to Hickman&#8217;s right is longtime Sheriff &#8230; <a href="/2009/09/08/tarzansdad/" class="more-link">Continue reading <span class="screen-reader-text">Tarzan&#8217;s Dad at the Hickman Trial</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>In an era where a celebrity journalist like Dominick Dunne (1925-2009 R.I.P.) covered the sordid murder trials of O.J. Simpson, Robert Blake and Phil Spector it should be noted that this is not a new phenomenon.<span>&nbsp; </span></p>
@@ -79,7 +79,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/09/08/tarzansdad/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/09/08/tarzansdad/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

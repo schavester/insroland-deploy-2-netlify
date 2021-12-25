@@ -12,8 +12,8 @@
 
 <channel>
 	<title>charity &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/charity-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/charity-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:03:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>charity &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A successful, failed bank job</title>
-		<link>https://www.insroland.org/2011/03/31/stonge/</link>
-					<comments>https://www.insroland.org/2011/03/31/stonge/#respond</comments>
+		<link>/2011/03/31/stonge/</link>
+					<comments>/2011/03/31/stonge/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 31 Mar 2011 22:09:41 +0000</pubDate>
@@ -44,7 +44,7 @@
 		<category><![CDATA[robbery]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[The desperate man walked into the Bank of America branch and crossed the lobby to the second teller window&#8211;to Mrs. Joy Holker, 28, the one with the kind eyes. He handed her a brown envelope and a note which read &#8220;This is a holdup. Fill up the envelope. Also have a jar of acid.&#8221; She &#8230; <a href="https://www.insroland.org/2011/03/31/stonge/" class="more-link">Continue reading <span class="screen-reader-text">A successful, failed bank job</span></a>]]></description>
+					<description><![CDATA[The desperate man walked into the Bank of America branch and crossed the lobby to the second teller window&#8211;to Mrs. Joy Holker, 28, the one with the kind eyes. He handed her a brown envelope and a note which read &#8220;This is a holdup. Fill up the envelope. Also have a jar of acid.&#8221; She &#8230; <a href="/2011/03/31/stonge/" class="more-link">Continue reading <span class="screen-reader-text">A successful, failed bank job</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><a title="Bank of America, Broadway &amp; 7th (LAPL) by richardschave, on Flickr" href="https://www.flickr.com/photos/richardschave/5578142596/"><img loading="lazy" src="https://farm6.static.flickr.com/5306/5578142596_c28b006ae9.jpg" alt="Bank of America, Broadway &amp; 7th (LAPL)" width="391" height="500" /></a></p>
@@ -65,15 +65,15 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2011/03/31/stonge/feed/</wfw:commentRss>
+					<wfw:commentRss>/2011/03/31/stonge/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Mystery Skull of Boyd Street</title>
-		<link>https://www.insroland.org/2009/08/05/boydstreetskull/</link>
-					<comments>https://www.insroland.org/2009/08/05/boydstreetskull/#respond</comments>
+		<link>/2009/08/05/boydstreetskull/</link>
+					<comments>/2009/08/05/boydstreetskull/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 05 Aug 2009 02:45:48 +0000</pubDate>
@@ -87,7 +87,7 @@
 		<category><![CDATA[skull]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[Walking in the alley behind the Sisters of Mercy building, where unfortunates were fed and housed, Fred Forsberg made a grim discovery: a partially mummified section of a human skull, with incongruously handsome, twirled moustaches above the former lips. The top of the skull had been neatly sawn off, suggesting the corpse had paid a &#8230; <a href="https://www.insroland.org/2009/08/05/boydstreetskull/" class="more-link">Continue reading <span class="screen-reader-text">The Mystery Skull of Boyd Street</span></a>]]></description>
+					<description><![CDATA[Walking in the alley behind the Sisters of Mercy building, where unfortunates were fed and housed, Fred Forsberg made a grim discovery: a partially mummified section of a human skull, with incongruously handsome, twirled moustaches above the former lips. The top of the skull had been neatly sawn off, suggesting the corpse had paid a &#8230; <a href="/2009/08/05/boydstreetskull/" class="more-link">Continue reading <span class="screen-reader-text">The Mystery Skull of Boyd Street</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>Walking in the alley behind the Sisters of Mercy building, where unfortunates were fed and housed, Fred Forsberg made a grim discovery: a partially mummified section of a human skull, with incongruously handsome, twirled moustaches above the former lips. The top of the skull had been neatly sawn off, suggesting the corpse had paid a visit to an anatomical laboratory. </p>
@@ -96,7 +96,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/08/05/boydstreetskull/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/08/05/boydstreetskull/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>transportation &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/transportation/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/transportation/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:03:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>transportation &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>&#8220;Captain&#8221; Wolf Takes A Trip</title>
-		<link>https://www.insroland.org/2010/01/14/captainwolf/</link>
-					<comments>https://www.insroland.org/2010/01/14/captainwolf/#respond</comments>
+		<link>/2010/01/14/captainwolf/</link>
+					<comments>/2010/01/14/captainwolf/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Thu, 14 Jan 2010 07:56:06 +0000</pubDate>
@@ -45,7 +45,7 @@
 		<category><![CDATA[transportation]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#8220;Captain&#8221; Maximilian Wolf, self-styled, was a visionary of early Los Angeles. He arrived from San Francisco with a colleague who planned to host a fair at Hazard&#8217;s Pavilion at 5th and Olive, went mad for a spell, was freed, then entered into a period of creative mania.&#160;&#160; In 1896 he sought to demonstrate the efficacy &#8230; <a href="https://www.insroland.org/2010/01/14/captainwolf/" class="more-link">Continue reading <span class="screen-reader-text">&#8220;Captain&#8221; Wolf Takes A Trip</span></a>]]></description>
+					<description><![CDATA[&#8220;Captain&#8221; Maximilian Wolf, self-styled, was a visionary of early Los Angeles. He arrived from San Francisco with a colleague who planned to host a fair at Hazard&#8217;s Pavilion at 5th and Olive, went mad for a spell, was freed, then entered into a period of creative mania.&#160;&#160; In 1896 he sought to demonstrate the efficacy &#8230; <a href="/2010/01/14/captainwolf/" class="more-link">Continue reading <span class="screen-reader-text">&#8220;Captain&#8221; Wolf Takes A Trip</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>&#8220;Captain&#8221; Maximilian Wolf, self-styled, was a visionary of early Los Angeles. He arrived from San Francisco with a colleague who planned to host a fair at Hazard&#8217;s Pavilion at 5th and Olive, went mad for a spell, was freed, then entered into a period of creative mania.<br />&nbsp;&nbsp; <br />In 1896 he sought to demonstrate the efficacy of his theories on alternative transport by way of a Water Bicycle, a device comprised of two fifteen-by-two-foot pontoons on each of which a bike was placed. By pushing the pedals, a series of cogs revolved, eventually powering two fishy fins beneath each pontoon. Put an awning up, and one could enjoy a cigar or cool tea on the open water. A rudder, at the front of the device, turned with the handlebars&#8211;but Wolf refused to tell reporters what would happen if the two riders wished to go in different directions.</p>
@@ -59,7 +59,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2010/01/14/captainwolf/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/01/14/captainwolf/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

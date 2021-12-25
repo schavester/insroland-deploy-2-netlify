@@ -12,8 +12,8 @@
 
 <channel>
 	<title>WWI &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/wwi/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/wwi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 00:59:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>WWI &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Jesus Was No Slacker</title>
-		<link>https://www.insroland.org/2009/07/31/jesusnoslacker/</link>
-					<comments>https://www.insroland.org/2009/07/31/jesusnoslacker/#respond</comments>
+		<link>/2009/07/31/jesusnoslacker/</link>
+					<comments>/2009/07/31/jesusnoslacker/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Fri, 31 Jul 2009 02:31:14 +0000</pubDate>
@@ -44,7 +44,7 @@
 		<category><![CDATA[WWI]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[On August 18, 1918 a joint raid conducted by officers of the LAPD and agents of the Department of Justice netted over 350 &#8220;slacker&#8221; suspects in downtown pool and dance halls.&#160; Seventy-five men were busted in Carl F. Horn&#8217;s Dance Pavilion at 755 South Spring Street alone. What&#160;was a slacker? The term referred to men &#8230; <a href="https://www.insroland.org/2009/07/31/jesusnoslacker/" class="more-link">Continue reading <span class="screen-reader-text">Jesus Was No Slacker</span></a>]]></description>
+					<description><![CDATA[On August 18, 1918 a joint raid conducted by officers of the LAPD and agents of the Department of Justice netted over 350 &#8220;slacker&#8221; suspects in downtown pool and dance halls.&#160; Seventy-five men were busted in Carl F. Horn&#8217;s Dance Pavilion at 755 South Spring Street alone. What&#160;was a slacker? The term referred to men &#8230; <a href="/2009/07/31/jesusnoslacker/" class="more-link">Continue reading <span class="screen-reader-text">Jesus Was No Slacker</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p><img src="https://farm3.static.flickr.com/2507/3770341797_ce1bce2049_o.jpg" border="0" alt="" hspace="0" /></p>
@@ -61,7 +61,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/07/31/jesusnoslacker/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/07/31/jesusnoslacker/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

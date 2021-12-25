@@ -12,8 +12,8 @@
 
 <channel>
 	<title>racket &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/racket/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/racket/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:03:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>racket &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Rubbish King&#8217;s Last Stand</title>
-		<link>https://www.insroland.org/2009/07/22/rubbishking/</link>
-					<comments>https://www.insroland.org/2009/07/22/rubbishking/#respond</comments>
+		<link>/2009/07/22/rubbishking/</link>
+					<comments>/2009/07/22/rubbishking/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 22 Jul 2009 01:36:32 +0000</pubDate>
@@ -49,7 +49,7 @@
 		<category><![CDATA[union]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[They called Hamayag Saroyan the rubbish king, and like any king, he was jealous of his subjects. When a restaurant canceled his hauling contract, King Hamayag left his Montebello castle and went to Main Street to stake out the place and learn what other potentate dared to pick up his trash. His majesty, 64, stood &#8230; <a href="https://www.insroland.org/2009/07/22/rubbishking/" class="more-link">Continue reading <span class="screen-reader-text">A Rubbish King&#8217;s Last Stand</span></a>]]></description>
+					<description><![CDATA[They called Hamayag Saroyan the rubbish king, and like any king, he was jealous of his subjects. When a restaurant canceled his hauling contract, King Hamayag left his Montebello castle and went to Main Street to stake out the place and learn what other potentate dared to pick up his trash. His majesty, 64, stood &#8230; <a href="/2009/07/22/rubbishking/" class="more-link">Continue reading <span class="screen-reader-text">A Rubbish King&#8217;s Last Stand</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>They called Hamayag Saroyan the rubbish king, and like any king, he was jealous of his subjects. When a restaurant canceled his hauling contract, King Hamayag left his Montebello castle and went to Main Street to stake out the place and learn what other potentate dared to pick up his trash.</p>
@@ -64,7 +64,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/07/22/rubbishking/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/07/22/rubbishking/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>garter &#8211; InSROland</title>
-	<atom:link href="https://www.insroland.org/category/garter/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.insroland.org/</link>
+	<atom:link href="/category/garter/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>lost lore of the historic core</description>
 	<lastBuildDate>Tue, 08 Mar 2016 01:03:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://www.insroland.org/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/03/cropped-logoINSROLandRain-1-32x32.jpg</url>
 	<title>garter &#8211; InSROland</title>
-	<link>https://www.insroland.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Case of the Missing Garter</title>
-		<link>https://www.insroland.org/2009/06/23/garter/</link>
-					<comments>https://www.insroland.org/2009/06/23/garter/#respond</comments>
+		<link>/2009/06/23/garter/</link>
+					<comments>/2009/06/23/garter/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Tue, 23 Jun 2009 16:11:10 +0000</pubDate>
@@ -51,7 +51,7 @@
 		<category><![CDATA[streetcar]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[When engaging a private detective, one seeks quick intelligence, discretion, the ability to negotiate all stratum of society with ease and elan. Based on an incident that occurred around noon on a Sunday in 1896, Joseph E. Gross is probably not your man. It seems the detective was standing with friends on the Southwest corner &#8230; <a href="https://www.insroland.org/2009/06/23/garter/" class="more-link">Continue reading <span class="screen-reader-text">The Case of the Missing Garter</span></a>]]></description>
+					<description><![CDATA[When engaging a private detective, one seeks quick intelligence, discretion, the ability to negotiate all stratum of society with ease and elan. Based on an incident that occurred around noon on a Sunday in 1896, Joseph E. Gross is probably not your man. It seems the detective was standing with friends on the Southwest corner &#8230; <a href="/2009/06/23/garter/" class="more-link">Continue reading <span class="screen-reader-text">The Case of the Missing Garter</span></a>]]></description>
 										<content:encoded><![CDATA[<div class="body">
 <div>
 <p>When engaging a private detective, one seeks quick intelligence, discretion, the ability to negotiate all stratum of society with ease and elan. Based on an incident that occurred around noon on a Sunday in 1896, Joseph E. Gross is probably not your man. It seems the detective was standing with friends on the Southwest corner of Third and Spring, as a pair of fashionable ladies awaited the University Line red car trolley in the road.   As one boarded, she gave a little wiggle of one foot and a tiny contraption fell onto the ground. Enjoying the spectacle of the wiggle, and wishing to be helpful and make a new acquaintance, Gross, snatched up the device and marched into the car, loudly calling to the lady who had lost it.   He realized what he held about the same moment she did: a black garter with a silver buckle, which the dropper had intentionally allowed to fall rather than adjusting it in the street. &#8220;Yes, it&#8217;s mine, but you may have it,&#8221; stammered the embarrassed lass, and Mr. Gross jumped free from the car to allow Miss Saggy Stockings to roll on without him. Next stop: Humiliation!</p>
@@ -59,7 +59,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.insroland.org/2009/06/23/garter/feed/</wfw:commentRss>
+					<wfw:commentRss>/2009/06/23/garter/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
